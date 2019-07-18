@@ -6,4 +6,4 @@ function enableNoSleep() {
 }
  
 // Habilitar el seguro para no bloquear la pantalla
-// document.addEventListener('touchstart', enableNoSleep, false)
+document.addEventListener('touchstart', enableNoSleep, false)
