@@ -1,6 +1,6 @@
 // T letter
     function tuguiasmidestino() {
-       document.getElementById("song").innerHTML="<p><b>Tu guias mi destino</b><br>Josue del Cid - bpm:76</p><hr><p>Tu guías mi destino<br>      Tu guías mis pasos<br>En ti solo confío<br>Hoy vengo a tus brazos</p><p>No tengo a nadie mas que a ti<br>Tu eres mi razón de vivir</p><p>La fuente de mi vida eres tu<br>Mi amigo, mi consuelo eres tu<br>No tengo a nadie mas que a ti<br>Tu eres mi la razón de vivir<br>Solo tu</p>";
+       document.getElementById("song").innerHTML="<p><b>&nbsp;Tu guias mi destino</b><br>Josue del Cid - bpm:76</p><hr><p>Tu guías mi dest<u><small>Am</small></u>ino<br>Tu guías mis p<u><small>Am</small></u>asos<br>En ti solo confío<br>Hoy vengo a tus brazos</p><p>No tengo a nadie mas que a ti<br>Tu eres mi razón de vivir</p><p>La fuente de mi vida eres tu<br>Mi amigo, mi consuelo eres tu<br>No tengo a nadie mas que a ti<br>Tu eres mi la razón de vivir<br>Solo tu</p>";
    }
 // V letter
     function vieneya() {
