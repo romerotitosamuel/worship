@@ -1,0 +1,5 @@
+#c1{
+    vertical-align: 20px }
+#c2{
+    position:absolute } 
+    /* pegar: <span id="c1"><span id="c2">X</span></span> */
