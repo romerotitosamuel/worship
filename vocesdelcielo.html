@@ -39,29 +39,32 @@
 <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="tuguiasmidestino()">Tu guias mi destino - Josue del Cid</button>
 <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="vieneya()">Viene ya - Miel San Marcos</button>
 
+
+<input  class="btn btn-muted btn-sm text-right" type="button" id="toggle" value="Lectura: Off" />
 <div class="text-lg-center">
         <div id=song></div> 
 </div>   
     </div> <!--FIN DE CONTENIDO DE PAGINA-->
-
-    <script>
-        var noSleep = new NoSleep();
-        var wakeLockEnabled = false;
-        var toggleEl = document.querySelector("#toggle");
-        toggleEl.addEventListener('click', function() {
-          if (!wakeLockEnabled) {
-            noSleep.enable(); // keep the screen on!
-            wakeLockEnabled = true;
-            toggleEl.value = "Wake Lock is enabled";
-            document.body.style.backgroundColor = "green";
-          } else {
-            noSleep.disable(); // let the screen turn off.
-            wakeLockEnabled = false;
-            toggleEl.value = "Wake Lock is disabled";
-            document.body.style.backgroundColor = "";
-          }
-        }, false);
-      </script>
+<!--APLICACION NOSLEEP-->
+<script src="nosleep.min.js"></script>
+<script>
+  var noSleep = new NoSleep();
+  var wakeLockEnabled = false;
+  var toggleEl = document.querySelector("#toggle");
+  toggleEl.addEventListener('click', function() {
+    if (!wakeLockEnabled) {
+      noSleep.enable(); // keep the screen on!
+      wakeLockEnabled = true;
+      toggleEl.value = "Lectura: On";
+      
+    } else {
+      noSleep.disable(); // let the screen turn off.
+      wakeLockEnabled = false;
+      toggleEl.value = "Lectura: Off";
+      
+    }
+  }, false);
+</script>
 <!--BS4 SCRIPTS-->
 <script src="data_song.js"></script>
 <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
