@@ -48,7 +48,7 @@
         var noSleep = new NoSleep();
         var wakeLockEnabled = false;
         var toggleEl = document.querySelector("#toggle");
-        toggleEl.addEventListener('touchstart', function() {
+        toggleEl.addEventListener('click', function() {
           if (!wakeLockEnabled) {
             noSleep.enable(); // keep the screen on!
             wakeLockEnabled = true;
@@ -61,8 +61,6 @@
             document.body.style.backgroundColor = "";
           }
         }, false);
-
-
       </script>
 <!--BS4 SCRIPTS-->
 <script src="data_song.js"></script>
