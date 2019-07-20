@@ -5,10 +5,10 @@
     /* pegar: <span id="c1"><span id="c2">X</span></span> */
 
 u {
-    vertical-align: 20px;
+    vertical-align: 12px;
 }
-
 small {
+    color: blue;
     position:absolute;
 }
-
+/* Syntax==> <u><small>X</small></u>*/

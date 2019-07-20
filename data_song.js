@@ -1,6 +1,6 @@
 // T letter
     function tuguiasmidestino() {
-       document.getElementById("song").innerHTML="<p><b>&nbsp;Tu guias mi destino</b><br>Josue del Cid - bpm:76</p><hr><p>Tu guías mi dest<u><small>Am</small></u>ino<br>Tu guías mis p<u><small>Am</small></u>asos<br>En ti solo confío<br>Hoy vengo a tus brazos</p><p>No tengo a nadie mas que a ti<br>Tu eres mi razón de vivir</p><p>La fuente de mi vida eres tu<br>Mi amigo, mi consuelo eres tu<br>No tengo a nadie mas que a ti<br>Tu eres mi la razón de vivir<br>Solo tu</p>";
+       document.getElementById("song").innerHTML="<p><b>Tu guías mi destino</b><br>Josue del Cid - bpm:76</p><hr><p><b>Intro: C-Am-G-F</b></p><p><u><small>C</small></u>Tu guías mi dest<u><small>G</small></u>in<u><small>Am</small></u>o<br>Tu guías mis p<u><small>F</small></u>asos<br><u><small>C</small></u>En ti solo conf<u><small>G</small></u>ío<u><small>Am</small></u><br>Hoy vengo a tus br<u><small>F</small></u>azos</p><hr><p><u><small>G</small></u>No tengo a n<u><small>Am</small></u>adie mas que a t<u><small>F</small></u>i<br><u><small>G</small></u>Tu eres mi raz<u><small>Am</small></u>ón de viv<u><small>F</small></u>ir</p><hr><p>La fu<u><small>C</small></u>ente de mi vida eres tu<br>Mi am<u><small>Am</small></u>igo, mi consuelo eres tu<br><u><small>G</small></u>No tengo a nadie mas que a t<u><small>Dm7</small></u>i<br><u><small>F</small></u>Tu eres mi razón de viv<u><small>G</small></u>ir<br>Solo t<u><small>Intro</small></u>u</p><p><b>Puente: F-C-G</b></p>";
    }
 // V letter
     function vieneya() {
