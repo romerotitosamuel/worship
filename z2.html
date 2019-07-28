@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Worship Emanuel</title>
+    <meta charset="utf=8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<style>
+small {
+  color:blue;
+}
+
+
+</style>
+
+  </head>
+<body>
+    <script src="header.js"></script>
+    <div> <!--CONTENIDO DE PAGINA-->
+      <br>
+<h6><i class="fa fa-file-text"></i> Ministerio de Alabanza Emanuel</h6>
+
+<button class="btn btn-light btn-sm btn-block"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKWcagYkqu2DW9z7IC-BiOu" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
+<button type="button" class="btn btn-primary btn-block btn-sm" onclick="remplazar(glorioso)">Glorioso - BJ Putnam</button>
+<button type="button" class="btn btn-primary btn-block btn-sm" onclick="remplazar(gloriaenloalto)">Gloria en lo alto - Christine dClario</button>
+<button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(lacasadedios)">La casa de Dios</button>
+<button type="button" class="btn btn-primary btn-block btn-sm" onclick="subirmediotono()">Subir 1/2 Tono</button>
+
+
+
+
+<div class="text-right">
+  <input  class="btn btn-info btn-sm mt-2" type="button" id="toggle" value="Lectura: Off" />
+</div>
+
+<div class="text-lg-center mx-2">
+    <p><small><span class="ch">D</span>7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id=ch>A</span>m<br></small>La casa de Dios<br><small><span id=ch>B</span>m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id=ch>G</span><br></small>Mejor es un dia en la casa</p>
+
+</div>   
+    </div> <!--FIN DE CONTENIDO DE PAGINA-->
+<!--APLICACION NOSLEEP-->
+    <script src="nosleep.min.js"></script>
+    <script>
+      var noSleep = new NoSleep();
+      var wakeLockEnabled = false;
+      var toggleEl = document.querySelector("#toggle");
+      toggleEl.addEventListener('click', function() {
+        if (!wakeLockEnabled) {
+          noSleep.enable(); // keep the screen on!
+          wakeLockEnabled = true;
+          toggleEl.value = "Lectura: On";
+          
+        } else {
+          noSleep.disable(); // let the screen turn off.
+          wakeLockEnabled = false;
+          toggleEl.value = "Lectura: Off";
+          
+        }
+      }, false);
+    </script>
+<!--BS4 SCRIPTS-->
+<script src="data_song.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -13,8 +13,22 @@ var revelacion = '<p><b>Revelación</b><br>Danilo Montero - bpm:136</p><hr><p><s
 var tempranoyotebuscare = '<p><b>Temprano yo te buscaré</b><br>Marcos Witt - bpm: 118</p><hr><p>Temprano yo te buscaré<br>de madrugada yo me acercaré a Ti<br>mi alma te anhela y tiene sed<br>para ver tu gloria, y tu Poder</p><hr><p>Mi socorro has sido Tú<br>en la sombra de tus alas, yo me gozaré<br>mi alma está apegada a Ti<br>por que tu diestra, me ha sostenido<br>oh, tu diestra me ha sostenido</p>'
 var tuguiasmidestino = '<p><b>Tu guías mi destino</b><br>Josue del Cid - bpm:76</p><hr><p><sub>Intro: C-Am-G-F</sub></p><p><u><small>C</small></u>Tu guías mi dest<u><small>G</small></u>in<u><small>Am</small></u>o<br>Tu guías mis p<u><small>F</small></u>asos<br><u><small>C</small></u>En ti solo conf<u><small>G</small></u>ío<u><small>Am</small></u><br>Hoy vengo a tus br<u><small>F</small></u>azos</p><hr><p><u><small>G</small></u>No tengo a n<u><small>Am</small></u>adie mas que a t<u><small>F</small></u>i<br><u><small>G</small></u>Tu eres mi raz<u><small>Am</small></u>ón de viv<u><small>F</small></u>ir</p><hr><p>La fu<u><small>C</small></u>ente de mi vida eres tu<br>Mi am<u><small>Am</small></u>igo, mi consuelo eres tu<br><u><small>G</small></u>No tengo a nadie mas que a t<u><small>Dm7</small></u>i<br><u><small>F</small></u>Tu eres mi razón de viv<u><small>G</small></u>ir<br>Solo t<u><small>Intro</small></u>u</p><p><sub>Puente: F-C-G</sub></p>'
 var vieneya = '<p><b>Viene ya</b><br>Miel San Marcos - bpm:150</p><hr><p><sub>Intro: Am-F-C-G</sub></p><p><u><small>Am</small></u>Prepar<u><small>F</small></u>emos el cam<u><small>C</small></u>ino Cristo vi<u><small>G</small></u>ene y<u><small>Am-F-C-G</small></u>a<br><u><small>Am</small></u>Anunci<u><small>F</small></u>emos su ven<u><small>C</small></u>ida en tod<u><small>G</small></u>o lug<u><small>Am-F-C-G</small></u>ar<br><u><small>Am</small></u>Que se <u><small>F</small></u>abran hoy las pu<u><small>C</small></u>ertas el v<u><small>G</small></u>iene y<u><small>Am-F-C-G</small></u>a<br><u><small>Am</small></u>Volver<u><small>F</small></u>emos a ador<u><small>C</small></u>arle por la eternid<u><small>G</small></u>ad</p><hr><p>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, pr<u><small>G</small></u>onto le ver<u><small>Am</small></u>é<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, pr<u><small>G</small></u>onto volver<u><small>Am</small></u>á</P><P>Voy cant<u><small>F</small></u>ando, grit<u><small>C</small></u>ando, celebr<u><small>G</small></u>ando su vict<u><small>Am</small></u>oria<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, Cr<u><small>G</small></u>isto viene y<u><small>Am</small></u>a</p><hr><P><sub>Puente: Am-F-C-G</sub></P><p>Volveremos, cantando<br>Volveremos, saltando<br>Volveremos, con gozo<br>Volveremos gritando</p><P><sub>Solo: F-C-G-Am</sub></P><hr><P>Voy cant<u><small>F</small></u>ando, grit<u><small>C</small></u>ando, celebr<u><small>G</small></u>ando su vict<u><small>Am</small></u>oria<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, Cr<u><small>G</small></u>isto viene y<u><small>Am</small></u>a</p>'
+var lacasadedios = '<p><small><span id="ch">D</span>7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id=ch>A</span>m<br></small>La casa de Dios<br><small><span id=ch>B</span>m&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id=ch>G</span><br></small>Mejor es un dia en la casa</p>'
+
 
 //FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
 function remplazar(cancionSolicitada){    
     document.getElementById("song").innerHTML= cancionSolicitada;
+}
+//SUBIR MEDIO TONO
+function subirmediotono(){
+ch = document.getElementsByClassName(ch);
+    switch(ch){
+        case "D":
+                document.getElementsByClassName(ch).innerHTML="Eb";
+        break;
+        case "A":
+                document.getElementsByClassName(ch).innerHTML="Bb";
+        break;
+}
 }
