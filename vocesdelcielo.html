@@ -7,8 +7,21 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+    <style id="chordvisibility">
+    </style>
+
+    <script>
+      function hidechord(){
+      document.getElementById("chordvisibility").innerHTML=".hidechord u, sub {display:none;}";
+      }
+      function showchord(){
+      document.getElementById("chordvisibility").innerHTML="";
+      }
+    </script>
+
 </head>
-<body style="max-width: 1150px ; margin: auto">
+<body style="max-width: 1150px ; margin: auto" class="hidechord">
     <script src="header.js"></script>
     
     <div> <!--CONTENIDO DE PAGINA-->
@@ -23,10 +36,10 @@
     
 
 
-  <div class="text-right">
-    <input  class="btn btn-info btn-sm mt-2" type="button" id="toggle" value="Lectura: Off" />
-  </div>
-  <div class="mx-3">
+  <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
+  <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
+  <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
+      <div class="mx-3">
           <div id=song></div> 
   </div>   
 </div> <!--FIN DE CONTENIDO DE PAGINA-->

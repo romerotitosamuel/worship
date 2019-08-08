@@ -8,27 +8,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-
+<style id="chordvisibility">
+</style>
+<script>
+function hidechord(){
+document.getElementById("chordvisibility").innerHTML=".hidechord u {display:none;}";
+}
+function showchord(){
+document.getElementById("chordvisibility").innerHTML="";
+}
+</script>
     
     
-    </style>
 </head>
-<body>
+<body class="hidechord">
 
-      
-    <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-        <button type="button" class="btn btn-secondary">1</button>
-      
-        <div class="btn-group" role="group">
-          <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Dropdown
-          </button>
-          <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-            <button type="button" class="btn btn-secondary">5</button>
-            <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
-        </div>
-        </div>
-      </div>
+  <button type="button" class="btn btn-info btn-sm" onclick="showchord()">Acordes</button>
+  <button type="button" class="btn btn-info btn-sm" onclick="hidechord()">Letra</button>
 
 
 <p><b>El Señor es mi pastor</b><br>Danilo Montero - bpm: 63</p><hr><p>El Señ<u><small>A</small></u>or es mi past<u><small>Bm</small></u>or<br>n<u><small>D-E</small></u>ada me faltar<u><small>A</small></u>á </p><hr><p>El señ<u><small>A</small></u>or es mi past<u><small>Bm</small></u>or<br>En p<u><small>D</small></u>astos delicados<br>Él me har<u><small>B7</small></u>á descans<u><small>E</small></u>ar</p><hr><p>Junto a agu<u><small>F#m</small></u>as de reposo<br> me p<u><small>Bm</small></u>astoreará<br> conf<u><small>E</small></u>ortará mi <u><small>A</small></u>alma<br> me guiar<u><small>F#m</small></u>á por sendas de just<u><small>Bm</small></u>icia<br> p<u><small>D</small></u>or amor, de su n<u><small>E</small></u>ombre</p>
