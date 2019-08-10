@@ -14,27 +14,32 @@
 
 
 </head>
-<body style="max-width: 1150px ; margin: auto" class="hidechord">
+<body style="max-width: 1000px ; margin: auto" class="hidechord">
     <script src="header.js"></script>
     
     <div> <!--CONTENIDO DE PAGINA-->
   <br>
   <h6><i class="fa fa-microphone"></i> Voces del cielo</h6>
+  
+<div style="max-width: 300px; min-width: 29%" class="float-md-left mx-auto">
   <button class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXIp-kcAa3mLFSUc5b_228_6" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
   <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
   <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
   <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
   <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
   <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
-    
+
+</div>    
 
 
+ <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
   <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
       <div class="mx-3">
           <div id=song></div> 
   </div>   
+ </div>
 </div> <!--FIN DE CONTENIDO DE PAGINA-->
 <!--APLICACION NOSLEEP-->
 <script src="nosleep.min.js"></script>

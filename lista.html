@@ -14,25 +14,28 @@
 
     
 </head>
-<body style="max-width: 1150px ; margin: auto" class="hidechord">
+<body style="max-width: 1000px ; margin: auto" class="hidechord">
     <script src="header.js"></script>
     <div> <!--CONTENIDO DE PAGINA-->
       <br>
     <h6> <i class="fa fa-database"></i> Lista de Canciones</h6>
    
     
-    <button type="button" class="btn btn-primary btn-block btn-sm" onclick="remplazar(vacio)">Ver Lista (Limpiar)</button>
-    <!--Botones de Acordes y lectura- inicio-->
-    <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
-    <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
-    <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
-    <!--Botones de Acordes y lectura- Fin-->
+    <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
+      <button type="button" class="btn btn-primary btn-block btn-sm" onclick="remplazar(vacio)">Ver Lista (Limpiar)</button>
+      <!--Botones de Acordes y lectura- inicio-->
+      <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
+      <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
+      <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
+      <!--Botones de Acordes y lectura- Fin-->
 
-    <div class="mx-3" >
-            <div id=song></div> 
-    </div>   
+        <div class="mx-3" >
+                <div id=song></div> 
+        </div>   
+    </div>
 
-    
+    <div style="max-width: 300px" class="float-md-left mx-auto">
+      
     <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKNEULh6iyt9tEqNPehpAbH" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Colección de Alabanzas</a></button>
     <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(comodijiste)">Como dijiste - Christine dClario</button>
     <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(diosincomparable)">Dios incomparable - Generación 12</button>
@@ -55,6 +58,7 @@
     <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vieneya)">Viene ya - Miel San Marcos</button>
     <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
     
+    </div>
     <!--Botones de canciones - Fin-->
 
         </div> <!--FIN DE CONTENIDO DE PAGINA-->
