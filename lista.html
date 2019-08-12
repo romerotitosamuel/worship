@@ -21,8 +21,48 @@
     <h6> <i class="fa fa-database"></i> Lista de Canciones</h6>
    
     
+
+    <div style="max-width: 300px" class="float-md-left mx-auto">
+
+        <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKNEULh6iyt9tEqNPehpAbH" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Colección de Alabanzas</a></button>
+        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+            <div class="btn-group" role="group">
+              <button id="btnGroupDrop1" type="button" class="btn btn-primary btn-sm-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Lista de Canciones - Iglesia Emanuel
+              </button>
+              <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                <!--Botones de Lista - Inicio-->
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(comodijiste)">Como dijiste - Christine dClario</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(diosincomparable)">Dios incomparable - Generación 12</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(elvolvera)">El Volverá - Marcos Witt</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(cantosdejubilo)">Cantos de jubilo - Jaime Murrel</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(glorioso)">Glorioso - BJ Putnam</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(gloriaenloalto)">Gloria en lo alto - Christine dClario</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(lacasadedios)">La casa de Dios - Danilo Montero</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(libresoy)">Libre soy - David Escarpeta</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(llenameseñor)">Lléname Señor - Marcos Witt</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(pazenlatormenta)">Paz en la tormenta - Renan Carias</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(poderosoparasalvar)">Poderoso para salvar - Hillsong</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(revelacion)">Revelación - Danilo Montero</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(tempranoyotebuscare)">Temprano yo te buscaré - Marcos Witt</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(tuamorpormi)">Tu amor por mi - Marcos Witt</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(vieneya)">Viene ya - Miel San Marcos</button>
+                <button type="button" class="btn btn-light btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
+
+                <!--Botones de Lista - Fin-->
+              </div>
+            </div>
+
+    </div>
+
+    <!--Botones de canciones - Fin-->
+
+        </div> <!--FIN DE CONTENIDO DE PAGINA-->
     <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
-      <button type="button" class="btn btn-primary btn-block btn-sm" onclick="remplazar(vacio)">Ver Lista (Limpiar)</button>
       <!--Botones de Acordes y lectura- inicio-->
       <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
       <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
@@ -34,34 +74,8 @@
         </div>   
     </div>
 
-    <div style="max-width: 300px" class="float-md-left mx-auto">
-      
-    <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKNEULh6iyt9tEqNPehpAbH" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Colección de Alabanzas</a></button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(comodijiste)">Como dijiste - Christine dClario</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(diosincomparable)">Dios incomparable - Generación 12</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(elvolvera)">El Volverá - Marcos Witt</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(cantosdejubilo)">Cantos de jubilo - Jaime Murrel</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(glorioso)">Glorioso - BJ Putnam</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(gloriaenloalto)">Gloria en lo alto - Christine dClario</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(lacasadedios)">La casa de Dios - Danilo Montero</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(libresoy)">Libre soy - David Escarpeta</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(llenameseñor)">Lléname Señor - Marcos Witt</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(pazenlatormenta)">Paz en la tormenta - Renan Carias</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(poderosoparasalvar)">Poderoso para salvar - Hillsong</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(revelacion)">Revelación - Danilo Montero</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tempranoyotebuscare)">Temprano yo te buscaré - Marcos Witt</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tuamorpormi)">Tu amor por mi - Marcos Witt</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vieneya)">Viene ya - Miel San Marcos</button>
-    <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
-    
-    </div>
-    <!--Botones de canciones - Fin-->
 
-        </div> <!--FIN DE CONTENIDO DE PAGINA-->
+
     <!--APLICACION NOSLEEP-->
         <script src="nosleep.min.js"></script>
         <script>
@@ -84,8 +98,8 @@
         </script>
     <!--BS4 SCRIPTS-->
     <script src="data_song.js"></script>
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>

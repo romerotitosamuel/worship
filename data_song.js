@@ -33,19 +33,10 @@ function remplazar(cancionSolicitada){
 
 function hidechord(){
         document.getElementById("chordvisibility").innerHTML=".hidechord u, sub {display:none;}";
-        }
-        function showchord(){
-        document.getElementById("chordvisibility").innerHTML="";
-        }
-//SUBIR MEDIO TONO
-/*function subirmediotono(){
-ch = document.getElementsByClassName(ch);
-    switch(ch){
-        case "D":
-                document.getElementsByClassName(ch).innerHTML="Eb";
-        break;
-        case "A":
-                document.getElementsByClassName(ch).innerHTML="Bb";
-        break;
 }
-} */
+function showchord(){
+        document.getElementById("chordvisibility").innerHTML="";
+}
+function upsize(tam){
+        document.getElementById("textResize").innerHTML="p {font-size:"+ tam +"%;}";
+}

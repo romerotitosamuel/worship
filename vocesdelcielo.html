@@ -11,7 +11,8 @@
 
     <style id="chordvisibility">
     </style>
-
+    <style id="textResize">
+      </style>
 
 </head>
 <body style="max-width: 1000px ; margin: auto" class="hidechord">
@@ -23,16 +24,33 @@
   
 <div style="max-width: 300px; min-width: 29%" class="float-md-left mx-auto">
   <button class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXIp-kcAa3mLFSUc5b_228_6" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
-  <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
-  <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
-  <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
-  <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
-  <button type="button" class="btn btn-secondary btn-block btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
+  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
+  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
+  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
+  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
+  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
 
 </div>    
 
 
+
  <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
+    <div class="btn-group" role="group" aria-label="Button group with nested dropdown"> <!--Boton de Text size-->  
+      <div class="btn-group" role="group">
+        <button id="btnGroupDrop1" type="button" class="btn btn-outline-dark btn-sm mt-2 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <i class="fa fa-text-height"></i>
+        </button>
+        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+          <a class="dropdown-item" onclick="upsize(100)">100%</a>
+          <a class="dropdown-item" onclick="upsize(110)">110%</a>
+          <a class="dropdown-item" onclick="upsize(120)">120%</a>
+          <a class="dropdown-item" onclick="upsize(150)">150%</a>
+          <a class="dropdown-item" onclick="upsize(175)">175%</a>
+          <a class="dropdown-item" onclick="upsize(200)">200%</a>
+        </div>
+      </div>
+    </div>
+    
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
   <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
@@ -63,8 +81,8 @@
 </script>
 <!--BS4 SCRIPTS-->
 <script src="data_song.js"></script>
-<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 </html>
