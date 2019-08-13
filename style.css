@@ -1,9 +1,12 @@
 
 u {
     vertical-align: 60%;
+    
 }
 small {
+    
     color: blue;
     position:absolute;
+    
 }
 /* Syntax==> <u><small>X</small></u>*/

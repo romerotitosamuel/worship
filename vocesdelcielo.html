@@ -55,7 +55,7 @@
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
   <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
   <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
-  <button class="btn btn-info btn-sm mt-2 float-right mr-2" type="button" onclick="window.print();"><i class="fa fa-print"></i> Imprimir</button>
+  <button class="btn btn-info btn-sm mt-2 float-right mr-2" type="button" onclick="window.print();"><i class="fa fa-print"></i></button>
     
   <div class="mx-3 mt-3">
           <div id=song></div> 
@@ -68,7 +68,7 @@
   var noSleep = new NoSleep();
   var wakeLockEnabled = false;
   var toggleEl = document.querySelector("#toggle");
-  
+  toggleEl.addEventListener('click', function() {
     if (!wakeLockEnabled) {
       noSleep.enable(); // keep the screen on!
       wakeLockEnabled = true;
@@ -80,8 +80,9 @@
       toggleEl.value = "Lectura: Off";
       
     }
-  
+  }, false);
 </script>
+
 <!--BS4 SCRIPTS-->
 <script src="data_song.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
