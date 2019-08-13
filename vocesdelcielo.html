@@ -63,21 +63,12 @@
 <script src="nosleep.min.js"></script>
 <script>
   var noSleep = new NoSleep();
-  var wakeLockEnabled = true;
-  var toggleEl = document.querySelector("#toggle");
-  toggleEl.addEventListener('click', function() {
-    if (!wakeLockEnabled) {
-      noSleep.enable(); // keep the screen on!
+  var wakeLockEnabled = false;
+    noSleep.enable(); // keep the screen on!
       wakeLockEnabled = true;
-      toggleEl.value = "Lectura: On";
+ 
       
-    } else {
-      noSleep.disable(); // let the screen turn off.
-      wakeLockEnabled = false;
-      toggleEl.value = "Lectura: Off";
-      
-    }
-  }, false);
+  
 </script>
 <!--BS4 SCRIPTS-->
 <script src="data_song.js"></script>
