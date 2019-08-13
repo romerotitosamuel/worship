@@ -1,0 +1,23 @@
+button, input, header, h6, a, hr {
+    display: none;
+}
+#song {
+    margin-left: 15%;
+}
+
+
+
+
+
+
+
+
+
+/* EL style de CHords*/
+u {
+    vertical-align: 60%;
+}
+small {
+    color: blue;
+    position:absolute;
+}

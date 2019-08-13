@@ -4,8 +4,9 @@
     <title>Worship Emanuel</title>
     <meta charset="utf=8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="./bs43/bootstrap.css" media="screen">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="icon" href="images/logo.ico">
 
@@ -18,56 +19,56 @@
 </head>
 <body style="max-width: 1000px ; margin: auto" class="hidechord">
     <script src="header.js"></script>
-    <div> <!--CONTENIDO DE PAGINA-->
-      <br>
-      <h6> <i class="fa fa-file-text"></i> Ministerio de Alabanza Emanuel</h6>
-<div class="float-md-left mx-auto" style="max-width: 300px ; min-width: 29%" > <!--Botones izquierda-->
-  <!--Botones de canciones - Inicio-->
-  <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKWcagYkqu2DW9z7IC-BiOu" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
-  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(glorioso)">Glorioso - BJ Putnam</button>
-  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(llenameseñor)">Lléname Señor - Marcos Witt</button>
-  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(tuamorpormi)">Tu amor por mi - Marcos Witt</button>
-  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(elvolvera)">El Volverá - Marcos Witt</button>
-  <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(lacasadedios)">La casa de Dios - Danilo Montero</button>
+<div> <!--CONTENIDO DE PAGINA-->
+        <br>
+        <h6> <i class="fa fa-file-text"></i> Ministerio de Alabanza Emanuel</h6>
+  <div class="float-md-left mx-auto" style="max-width: 300px ; min-width: 29%" class="print"> <!--Botones izquierda--><!--Botones de canciones - Inicio-->
+    
+    <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKWcagYkqu2DW9z7IC-BiOu" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
+    <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</button>
+    <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(tuguiasmidestino)">Tu guias mi destino - Josue del Cid</button>
+    <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(vineaadorarte)">Vine a adorarte - Marcela Gandara</button>
+    <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</button>
+    <button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(tumirada)">Tu mirada - Marcos Witt</button>
 
-  </div>
+  </div><!--Botones de canciones - Fin-->
 
+  <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left"><!--Contenido de la derecha en pantalla grande-->
 
-
-  <!--Botones de canciones - Fin-->
-</div>
-<div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
-
-    <!--Botones de Acordes y lectura- inicio-->
-    <div class="btn-group" role="group" aria-label="Button group with nested dropdown"> <!--Boton de Text size-->  
-        <div class="btn-group" role="group">
-          <button id="btnGroupDrop1" type="button" class="btn btn-outline-dark btn-sm mt-2 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              <i class="fa fa-text-height"></i>
-          </button>
-          <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-            <a class="dropdown-item" onclick="upsize(100)">100%</a>
-            <a class="dropdown-item" onclick="upsize(110)">110%</a>
-            <a class="dropdown-item" onclick="upsize(120)">120%</a>
-            <a class="dropdown-item" onclick="upsize(150)">150%</a>
-            <a class="dropdown-item" onclick="upsize(175)">175%</a>
-            <a class="dropdown-item" onclick="upsize(200)">200%</a>
+    <div class="print"><!--total botones de ajuste-->
+            <!--Botones de Acordes y lectura- inicio-->
+            <div class="btn-group" role="group" aria-label="Button group with nested dropdown"> <!--Boton de Text size-->  
+              <div class="btn-group" role="group">
+                <button id="btnGroupDrop1" type="button" class="btn btn-outline-dark btn-sm mt-2 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="fa fa-text-height"></i>
+                </button>
+                <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                  <a class="dropdown-item" onclick="upsize(100)">100%</a>
+                  <a class="dropdown-item" onclick="upsize(110)">110%</a>
+                  <a class="dropdown-item" onclick="upsize(120)">120%</a>
+                  <a class="dropdown-item" onclick="upsize(150)">150%</a>
+                  <a class="dropdown-item" onclick="upsize(175)">175%</a>
+                  <a class="dropdown-item" onclick="upsize(200)">200%</a>
+                </div>
+              </div>
           </div>
-        </div>
-      </div>
 
-    <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
-    <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
-    <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
-    <!--Botones de Acordes y lectura- Fin-->
+          <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
+          <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
+          <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />
+          <!--Botones de Acordes y lectura- Fin-->
 
-    <div class="mx-3" > <!--Contenido de cancion-->
-            <div id=song></div> 
-    </div>   
-        </div> <!--FIN DE CONTENIDO DE PAGINA-->
+    </div>
+      <div class="mx-3" > <!--Contenido de cancion-->
+              <div id=song></div> 
+      </div>   
+  </div> 
 
 
-</div>
-    <!--APLICACION NOSLEEP-->
+</div> <!--Contenido de la pagina FIN-->
+ 
+
+<!--APLICACION NOSLEEP-->
         <script src="nosleep.min.js"></script>
         <script>
           var noSleep = new NoSleep();
@@ -92,5 +93,5 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-  </body>
+      </body>
 </html>
