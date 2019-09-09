@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Worship Emanuel</title>
-  <meta charset="utf=8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-  <link rel="stylesheet" type="text/css" href="print.css" media="print">
-  <link rel="stylesheet" type="text/css" href="./bs43/bootstrap.css" media="screen">
-  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <link rel="icon" href="images/logo.ico">
-
-  <style id="chordvisibility">
-  </style>
-  <style id="textResize">
+    <title>Worship Emanuel</title>
+    <meta charset="utf=8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="./bs43/bootstrap.css" media="screen">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="icon" href="images/logo.ico">
+  
+    <style id="chordvisibility">
     </style>
-
+    <style id="textResize">
+    </style>
     
+      
 </head>
 <body style="max-width: 1000px ; margin: auto" class="hidechord">
     <script src="header.js"></script>
@@ -25,27 +25,28 @@
    
     
 
-    <div style="max-width: 300px" class="float-md-left mx-auto">
+    <div style="max-width: 300px" class="float-md-left mx-auto mt-2 ">
 
         <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKNEULh6iyt9tEqNPehpAbH" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Colección de Alabanzas</a></button>
-        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-            <div class="btn-group" role="group">
-              <button id="btnGroupDrop1" type="button" class="btn btn-dark btn-sm-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Lista de Canciones - Iglesia Emanuel
-              </button>
-              <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+            
+              
+              
                 <!--Lista - Inicio-->
-                <ul style="font-size: 90% ; list-style: none">
+                <div id="list">
+                <ul style="font-size: 90% ">
+                  <li onclick="remplazar(aquienire)">A quien iré - Marcos Witt</li>
+                  <li onclick="remplazar(buenoesalabar)">Bueno es alabar - Marcos Witt</li>
+                  <li onclick="remplazar(cantosdejubilo)">Cantos de jubilo - Jaime Murrel</li>
                   <li onclick="remplazar(comodijiste)">Como dijiste - Christine dClario</li>
+                  <li onclick="remplazar(conmismanoslevantadas)">Con mis manos levantadas - Danilo Montero</li>
                   <li onclick="remplazar(diosincomparable)">Dios incomparable - Generación 12</li>
                   <li onclick="remplazar(elseñoresmipastor)">El Señor es mi pastor - Danilo Montero</li>
                   <li onclick="remplazar(elvolvera)">El Volverá - Marcos Witt</li>
                   <li onclick="remplazar(eresfiel)">Eres fiel - Marco Barrientos</li>
-                  <li onclick="remplazar(cantosdejubilo)">Cantos de jubilo - Jaime Murrel</li>
-                  <li onclick="remplazar(conmismanoslevantadas)">Con mis manos levantadas - Danilo Montero</li>
                   <li onclick="remplazar(glorioso)">Glorioso - BJ Putnam</li>
                   <li onclick="remplazar(gloriaenloalto)">Gloria en lo alto - Christine dClario</li>
                   <li onclick="remplazar(grandeyfuerteomar)">Grande y fuerte - Omar Oropesa</li>
+                  <li onclick="remplazar(increible)">Increíble - Miel San Marcos</li>
                   <li onclick="remplazar(lacasadedios)">La casa de Dios - Danilo Montero</li>
                   <li onclick="remplazar(libresoy)">Libre soy - David Escarpeta</li>
                   <li onclick="remplazar(llenameseñor)">Lléname Señor - Marcos Witt</li>
@@ -53,6 +54,8 @@
                   <li onclick="remplazar(pazenlatormenta)">Paz en la tormenta - Renan Carias</li>
                   <li onclick="remplazar(poderosoparasalvar)">Poderoso para salvar - Hillsong</li>
                   <li onclick="remplazar(revelacion)">Revelación - Danilo Montero</li>
+                  <li onclick="remplazar(sananuestratierra)">Sana nuestra tierra - Marcos Witt</li>
+                  <li onclick="remplazar(soyfeliz)">Soy feliz - Miel San Marcos</li>
                   <li onclick="remplazar(teamojesus)">Te amo Jesús - Daniel Calveti</li>
                   <li onclick="remplazar(tempranoyotebuscare)">Temprano yo te buscaré - Marcos Witt</li>
                   <li onclick="remplazar(tuamorpormi)">Tu amor por mi - Marcos Witt</li>
@@ -63,18 +66,34 @@
 
 
                 </ul>
-
+                </div>
                 <!--Botones de Lista - Fin-->
-              </div>
-            </div>
+              
+            
 
-    </div>
 
     <!--Botones de canciones - Fin-->
 
         </div> <!--FIN DE CONTENIDO DE PAGINA-->
     <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left">
       <!--Botones de Acordes y lectura- inicio-->
+
+      <div class="btn-group" role="group" aria-label="Button group with nested dropdown"> <!--Boton de Text size-->  
+        <div class="btn-group" role="group">
+          <button id="btnGroupDrop1" type="button" class="btn btn-outline-dark btn-sm mt-2 dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <i class="fa fa-text-height"></i>
+          </button>
+          <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+            <a class="dropdown-item" onclick="upsize(100)">100%</a>
+            <a class="dropdown-item" onclick="upsize(110)">110%</a>
+            <a class="dropdown-item" onclick="upsize(120)">120%</a>
+            <a class="dropdown-item" onclick="upsize(150)">150%</a>
+            <a class="dropdown-item" onclick="upsize(175)">175%</a>
+            <a class="dropdown-item" onclick="upsize(200)">200%</a>
+          </div>
+        </div>
+      </div>
+
       <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="showchord()"><i class="fa fa-music"></i> Acordes</button>
       <button type="button" class="btn btn-outline-info btn-sm mt-2" onclick="hidechord()"><i class="fa fa-file-text"></i> Letra</button>
       <input  class="btn btn-info btn-sm mt-2 float-right" type="button" id="toggle" value="Lectura: Off" />

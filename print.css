@@ -5,6 +5,11 @@ button, input, header, h6, a, hr {
     margin-left: 15%;
 }
 
+#list {
+
+    display: none;
+}
+
 
 
 
