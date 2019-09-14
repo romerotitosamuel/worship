@@ -15,4 +15,12 @@ small {
     height: 200px;
     overflow: scroll;
 }
+span
+ {
+    vertical-align: 60%;
+    color: blue;
+    position:absolute;
+
+
+}
 /* Syntax==>      <u><small>X</small></u>     */

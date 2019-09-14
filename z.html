@@ -31,9 +31,64 @@ document.getElementById("chordvisibility").innerHTML="";
   <button type="button" class="btn btn-info btn-sm" onclick="showchord()">Acordes</button>
   <button type="button" class="btn btn-info btn-sm" onclick="hidechord()">Letra</button>
 
+<button onclick= "bajaMedioTono()" > -1/2 tono</button>
+
+<script>
+  function bajaMedioTono(){
+    var tono = document.getElementsByTagName("a");
+
+    for (var n=0 ; n < tono.length ; n++){
+
+      switch(tono[n].textContent){
+          
+          case "C":
+            document.getElementsByTagName("a")[n].innerHTML= "B" ; break;
+          
+          case "C#":
+            document.getElementsByTagName("a")[n].innerHTML= "C" ; break;
+
+          case "D":
+            document.getElementsByTagName("a")[n].innerHTML= "C#" ; break;
+
+          case "Eb":
+            document.getElementsByTagName("a")[n].innerHTML= "D" ; break;
+
+          case "E":
+            document.getElementsByTagName("a")[n].innerHTML= "Eb" ; break;
+          
+          case "F":
+            document.getElementsByTagName("a")[n].innerHTML= "E" ; break;
+
+          case "F#":
+            document.getElementsByTagName("a")[n].innerHTML= "F" ; break;
+            
+          case "G":
+            document.getElementsByTagName("a")[n].innerHTML= "F#" ; break;
+
+          case "G#":
+            document.getElementsByTagName("a")[n].innerHTML= "G" ; break;
+
+          case "A":
+            document.getElementsByTagName("a")[n].innerHTML= "G#" ; break;
+
+          case "Bb":
+            document.getElementsByTagName("a")[n].innerHTML= "A" ; break;
+
+          case "B":
+            document.getElementsByTagName("a")[n].innerHTML= "Bb" ; break;
+      }
+    } 
+  };
 
 
 
+
+
+
+
+
+</script>
+<p><b>Sana nuestra tierra</b><br>Marcos Witt - bpm: 120</p><hr><sub>Intro: G-Em-C-Am-D</sub><p><u><small><a>G</a></small></u>Vengo a T<span>E</span>i, guíam<u><small>C</small></u>e<br>Santif<u><small>D</small></u>ícame en T<u><small>G</small></u>i<br>Quiero and<u><small>Em</small></u>ar<br>En Tu verd<u><small>C</small></u>ad</p><hr><p><u><small>G</small></u>Tómam<u><small>Em</small></u>e, abrázam<u><small>C</small></u>e<br>Mi corazón hoy vuelve a T<u><small>Am</small></u>i<br>Solo a T<u><small>D</small></u>i</p><hr><p>Qui<u><small>G</small></u>ero humillarme<br>B<u><small>Em</small></u>uscar tu rostro<br>H<u><small>C</small></u>oy me arrepiento<br>Del<u><small>Am</small></u>ante de T<u><small>D</small></u>i</p><hr><p>V<u><small>G</small></u>engo a invocarte<br>Incl<u><small>Em</small></u>ina Tu oído<br>Esc<u><small>C</small></u>ucha y perdona <br>M<u><small>Am</small></u>i rebeli<u><small>D</small></u>ón</p><hr><p><b><u><small>Am</small></u>Sana nu<u><small>Em</small></u>estra ti<u><small>D</small></u>erra<br><u><small>Am</small></u>Sana nu<u><small>Em</small></u>estra ti<u><small>D</small></u>erra<br>Con tu am<u><small>Intro</small></u>or</b></p><hr><p> <u><small>Eb</small></u>Escucha h<u><small>F</small></u>oy mi oraci<u><small>G</small></u>ón<br><u><small>Eb</small></u>A ti lev<u><small>F</small></u>anto mi clam<u><small>D</small></u>or</p><sub>Solo: //// C - D - Em - D/F# - G //// C-D </sub>
 
 
 
@@ -51,6 +106,10 @@ document.getElementById("chordvisibility").innerHTML="";
   El Rey de Reyes me a transformado<br>
   El Rey de Reyes me a transformado<br>
   No vuelvo atrás, no vuelvo atrás</p>
+
+  
+
+
 
 
 
