@@ -16,6 +16,7 @@ var gloriosola = '<p><b>Glorioso</b><br>BJ Putnam - bpm: 148</p><hr><p>¡Gl<u><s
 var glorioso = '<p><b>Glorioso</b><br>BJ Putnam - bpm: 148</p><hr><p>¡Gl<u><small>G</small></u>ori<u><small>D</small></u>os<u><small>Em-C</small></u>o! Te cantamos<br>¡Gl<u><small>G</small></u>ori<u><small>D</small></u>os<u><small>Em-C</small></u>o! Lo gritamos<br><u><small>G</small></u>Cristo te al<u><small>D</small></u>abaré<br><u><small>Em</small></u>Tu nombre ex<u><small>C</small></u>altaré<br>¡Gl<u><small>G</small></u>ori<u><small>D</small></u>os<u><small>C</small></u>o! Nadie como tú</p><p><sub>Intro: C-Em-C-G-D</sub></p><hr><p><u><small>C</small></u>Tú r<u><small>G</small></u>einar<u><small>D</small></u>ás<br>Por si<u><small>Em</small></u>empre y siempre<br><u><small>C</small></u>Tú v<u><small>G</small></u>ivir<u><small>D</small></u>ás</p><p><u><small>C</small></u>Tu am<u><small>G</small></u>or ser<u><small>D</small></u>á<br>Por si<u><small>Em</small></u>empre y siempre<br><u><small>C</small></u>No c<u><small>G</small></u>ambiar<u><small>D</small></u>ás</p><hr><p>Gritar<u><small>C</small></u>é, gritaré<br>Porque bu<u><small>G</small></u>eno es Dios<br>Cantar<u><small>D</small></u>é, cantaré<br>Tú eres <u><small>Em</small></u>El Señor<br><u><small>C</small></u>Declarar<u><small>G</small></u>é, nadie c<u><small>D</small></u>omo tú</p><hr><p><u><small>G</small></u>Tu luz brillar<u><small>B7</small></u>á, todos ver<u><small>Em</small></u>án<br>No hay nadie c<u><small>C</small></u>omo tú</p>'
 var gloriaenloalto = '<p><b>Gloria en lo alto</b><br>Christine dClario - bpm: 100</p><hr><p><sub>Intro: C-Em-F</sub></p><p>Quebrant<u><small>C</small></u>ado fuiste<br>oh Jes<u><small>Em</small></u>ús por mi rebeli<u><small>F</small></u>ón<br>Resucit<u><small>C</small></u>aste, y hoy puedo viv<u><small>E</small></u>ir<br>Y de nuevo nac<u><small>F</small></u>er</p><hr><p>Cu<u><small>Dm</small></u>anto am<u><small>F</small></u>aste al mundo Di<u><small>C-G</small></u>os<br>Cu<u><small>Dm</small></u>anto te qui<u><small>F</small></u>ero agradec<u><small>C-G</small></u>er</p><hr><p>Gl<u><small>Am</small></u>oria, gloria en lo <u><small>F</small></u>alto<br>Gloria en lo <u><small>C</small></u>alto, gloria al R<u><small>G</small></u>ey<br>Gl<u><small>Am</small></u>oria, gloria a Ti mi Cr<u><small>F</small></u>isto<br>Tu nombre por si<u><small>C</small></u>empre exaltar<u><small>G</small></u>é</p><hr><p>Venc<u><small>C</small></u>iste el mundo pecad<u><small>Em</small></u>or<br>Con tu gran am<u><small>F</small></u>or<br>Ahora el P<u><small>C</small></u>adre te ha exalt<u><small>Em</small></u>ado<br> al más alto lug<u><small>F</small></u>ar</p><hr><p>Cu<u><small>Dm</small></u>anto am<u><small>F</small></u>aste al mundo Di<u><small>C-G</small></u>os<br>Cu<u><small>Dm</small></u>anto te qui<u><small>F</small></u>ero enaltec<u><small>C-G</small></u>er</p><hr><p><sub>Puente: Dm-Am-Em-F-G</sub></p><p><u><small>Am</small></u>Digno, solo Tú eres d<u><small>F</small></u>igno<br>Solo Tú eres d<u><small>C</small></u>igno<br>Solo Tú eres Di<u><small>G</small></u>os</p>'
 var grandeyfuerteomar = '<p><b>Grande y fuerte</b><br>Omar Oropesa - bpm: 79</p><hr><sub>Intro: Am<br>Punteo:(A-G-A C-B-G-E-G A-G-A)</sub><hr><p>Mi Di<u><small>Am</small></u>os es grande y fu<u><small>Em</small></u>erte<br>y s<u><small>F</small></u>u palabra v<u><small>E</small></u>ence<br>Sus <u><small>Am</small></u>enemigos ti<u><small>G</small></u>emblan<br>Y h<u><small>F</small></u>uyen ante <u><small>E</small></u>Él</p><hr><p><b>Jesucr<u><small>F</small></u>isto <u><small>G/F</small></u>es, el Señ<u><small>Em</small></u>or mi R<u><small>Am</small></u>ey<br><u><small>(Am)</small></u>En s<u><small>(G)</small></u>u n<u><small>F</small></u>ombre h<u><small>G/F</small></u>ay<br>Hay pod<u><small>Em</small></u>er para venc<u><small>Am</small></u>er</b></p>'
+var hedecididoseguiracristo = '<p><b>He decidido seguir a Cristo</b><br>Marcos Witt - bpm: 91</p><p>He decid<u><small><a>C</a></small></u>ido seguir a Cristo<br>He decid<u><small><a>F</a></small></u>ido seguir a Cr<u><small><a>C</a></small></u>isto<br>He decidido seguir a Cr<u><small><a>A</a>m</small></u>isto<br>No vuelvo atr<u><small><a>G</a></small></u>ás, no vu<u><small><a>F</a>-<a>G</a></small></u>elvo atr<u><small><a>C</a></small></u>ás</p><hr><p>La cruz delante, el mundo atrás<br>La cruz delante, el mundo atrás<br>La cruz delante, el mundo atrás<br>No vuelvo atrás, no vuelvo atrás</p><hr><p>El Rey de Reyes me a transformado<br>El Rey de Reyes me a transformado<br>El Rey de Reyes me a transformado<br>No vuelvo atrás, no vuelvo atrás</p>'
 var increible = '<p><b>Increíble</b><br>Miel San Marcos - bpm: 132</p><hr><sub>Intro: F-C-G-Am</sub><p><u><small>F</small></u>Poderoso, <u><small>C</small></u>invencible<br>Admir<u><small>G</small></u>able, gr<u><small>Am</small></u>ande y fuerte Dio<u><small>F</small></u>s<br>Rey de Reyes, <u><small>C</small></u>asombroso, <u><small>G</small></u>incomparable<u><small>Am</small></u></p><hr><p><b>Eres incre<u><small>F-C</small></u>íble <u><small>G</small></u>todopoderoso<br>Gr<u><small>Am</small></u>ande eres incre<u><small>F-C</small></u>íble<br>Venc<u><small>G</small></u>iste las tinieblas<br>Cr<u><small>Am</small></u>isto exaltado esta<u><small>Intro</small></u>s</b></p><hr><p>Incre<u><small>F</small></u>ible, invenc<u><small>C</small></u>ible<br>Di<u><small>G</small></u>os solo tú, solo t<u><small>Am</small></u>ú<br>Tu eres incre<u><small>F</small></u>ible, invenc<u><small>C</small></u>ible<br>Mi Di<u><small>G</small></u>os solo tu, solo t<u><small>Am</small></u>u</p><sub>Solo: Am-F-C-G-Em -- Am-F-G-Em</sub>'
 var lacasadedios = '<p><b>La casa de Dios</b><br>Danilo Montero - bpm: 143</p><hr><sub>Intro: D-A-Bm-G  D-A-G</sub><p>Mej<u><small>D</small></u>or es un d<u><small>A</small></u>ía en la c<u><small>Bm</small></u>asa de Di<u><small>G</small></u>os<br>que m<u><small>D</small></u>il años l<u><small>A</small></u>ejos de <u><small>G</small></u>El<br> prefi<u><small>D</small></u>ero un rinc<u><small>A</small></u>ón en la c<u><small>Bm</small></u>asa de Di<u><small>G</small></u>os<br> que t<u><small>D</small></u>odo el pal<u><small>A</small></u>acio de un r<u><small>Bm</small></u>ey<br> que t<u><small>D</small></u>odo el pal<u><small>A</small></u>acio de un r<u><small>G</small></u>ey</p><hr><p><b>Ven conm<u><small>D</small></u>igo a la Casa de Di<u><small>A</small></u>os<br> Celebrar<u><small>Bm</small></u>emos juntos su am<u><small>G</small></u>or<br> haremos f<u><small>D</small></u>iesta en honor de aqu<u><small>A</small></u>él<br> que nos am<u><small>G</small></u>ó </b></p><p><b>Estando aqu<u><small>D</small></u>í en la casa de Di<u><small>A</small></u>os<br> Alegrar<u><small>Bm</small></u>emos su coraz<u><small>G</small></u>ón<br> le brindar<u><small>D</small></u>emos ofrendas<br> de <u><small>A</small></u>obediencia y am<u><small>G</small></u>or<br> En la Casa de Di<u><small>Acordes Intro</small></u>os</b></p><hr><p><u><small>D</small></u>Arde mi <u><small>A</small></u>alma<br> <u><small>Bm</small></u>Arde de am<u><small>G</small></u>or<br> por <u><small>D</small></u>Aquél que m<u><small>A</small></u>e dio la v<u><small>Bm-G</small></u>ida<br> por <u><small>D</small></u>eso le anh<u><small>A</small></u>ela m<u><small>Bm</small></u>i coraz<u><small>G</small></u>ón<br> Anh<u><small>D</small></u>ela de s<u><small>A</small></u>u compañ<u><small>Bm</small></u>ía<br> Anh<u><small>D</small></u>ela de s<u><small>A</small></u>u compañ<u><small>G</small></u>ía</p>'
 var libresoy = '<p><b>Libre soy</b><br>David Escarpeta - bpm: 133</p><hr><p>Por ti los ciegos ven, los mudos cantarán<br>En ti la vida está, por ti puedo cantar<br>La oscuridad se va, por ti puedo gritar<br>Libre soy</p><hr><p>Libre para correr<br>Libre para danzar<br>Libre para vivir en ti<br>Libre soy</p>'
@@ -51,3 +52,49 @@ function showchord(){
 function upsize(tam){
         document.getElementById("textResize").innerHTML="p {font-size:"+ tam +"%;}";
 }
+//FUNCION BAJAR MEDIO TONO
+function bajaMedioTono(){
+        var tono = document.getElementsByTagName("a");
+    
+        for (var n=0 ; n < tono.length ; n++){
+    
+          switch(tono[n].textContent){
+              
+              case "C":
+                document.getElementsByTagName("a")[n].innerHTML= "B" ; break;
+              
+              case "C#":
+                document.getElementsByTagName("a")[n].innerHTML= "C" ; break;
+    
+              case "D":
+                document.getElementsByTagName("a")[n].innerHTML= "C#" ; break;
+    
+              case "Eb":
+                document.getElementsByTagName("a")[n].innerHTML= "D" ; break;
+    
+              case "E":
+                document.getElementsByTagName("a")[n].innerHTML= "Eb" ; break;
+              
+              case "F":
+                document.getElementsByTagName("a")[n].innerHTML= "E" ; break;
+    
+              case "F#":
+                document.getElementsByTagName("a")[n].innerHTML= "F" ; break;
+                
+              case "G":
+                document.getElementsByTagName("a")[n].innerHTML= "F#" ; break;
+    
+              case "G#":
+                document.getElementsByTagName("a")[n].innerHTML= "G" ; break;
+    
+              case "A":
+                document.getElementsByTagName("a")[n].innerHTML= "G#" ; break;
+    
+              case "Bb":
+                document.getElementsByTagName("a")[n].innerHTML= "A" ; break;
+    
+              case "B":
+                document.getElementsByTagName("a")[n].innerHTML= "Bb" ; break;
+          }
+        } 
+      };
