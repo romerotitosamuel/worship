@@ -39,7 +39,8 @@ var vineaadorarte = '<p><b>Vine a adorarte</b><br>Marcela Gandara - bpm: 68</p><
 //FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
 function remplazar(cancionSolicitada){
     document.getElementById("song").innerHTML= cancionSolicitada;
-}
+    
+  }
 
 //FUNCION DE OCULTAR CHORDS
 function hidechord(){
