@@ -36,66 +36,11 @@ var tumirada = '<p><b>Tu mirada</b><br>Marcos Witt - bpm: 57</p><hr><p>Tu <u><sm
 var vieneya = '<p><b>Viene ya</b><br>Miel San Marcos - bpm:150</p><hr><p><sub>Intro: Am-F-C-G</sub></p><p><u><small>Am</small></u>Prepar<u><small>F</small></u>emos el cam<u><small>C</small></u>ino Cristo vi<u><small>G</small></u>ene y<u><small>Am-F-C-G</small></u>a<br><u><small>Am</small></u>Anunci<u><small>F</small></u>emos su ven<u><small>C</small></u>ida en tod<u><small>G</small></u>o lug<u><small>Am-F-C-G</small></u>ar<br><u><small>Am</small></u>Que se <u><small>F</small></u>abran hoy las pu<u><small>C</small></u>ertas el v<u><small>G</small></u>iene y<u><small>Am-F-C-G</small></u>a<br><u><small>Am</small></u>Volver<u><small>F</small></u>emos a ador<u><small>C</small></u>arle por la eternid<u><small>G</small></u>ad</p><hr><p>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, pr<u><small>G</small></u>onto le ver<u><small>Am</small></u>é<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, pr<u><small>G</small></u>onto volver<u><small>Am</small></u>á</P><P>Voy cant<u><small>F</small></u>ando, grit<u><small>C</small></u>ando, celebr<u><small>G</small></u>ando su vict<u><small>Am</small></u>oria<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, Cr<u><small>G</small></u>isto viene y<u><small>Am</small></u>a</p><hr><P><sub>Puente: Am-F-C-G</sub></P><p>Volveremos, cantando<br>Volveremos, saltando<br>Volveremos, con gozo<br>Volveremos gritando</p><P><sub>Solo: F-C-G-Am</sub></P><hr><P>Voy cant<u><small>F</small></u>ando, grit<u><small>C</small></u>ando, celebr<u><small>G</small></u>ando su vict<u><small>Am</small></u>oria<br>Viene y<u><small>F</small></u>a mi am<u><small>C</small></u>ado, Cr<u><small>G</small></u>isto viene y<u><small>Am</small></u>a</p>'
 var vineaadorarte = '<p><b>Vine a adorarte</b><br>Marcela Gandara - bpm: 68</p><hr><sub>Intro: D-A-Em-G  D-A-G</sub><hr><p><u><small>D</small></u>Tú  eres  la  l<u><small>A</small></u>uz<br>Que brill<u><small>Em</small></u>o en las tini<u><small>G</small></u>eblas<br><u><small>D</small></u>Abrio mis <u><small>A</small></u>ojos pude v<u><small>G</small></u>er<br>M<u><small>D</small></u>i coraz<u><small>A</small></u>ón ador<u><small>Em</small></u>a tu hermos<u><small>G</small></u>ura<br>Esper<u><small>D</small></u>anza de mi v<u><small>A</small></u>ida eres t<u><small>G</small></u>ú</p><hr><p><b>Vine ador<u><small>D</small></u>arte<br>Vine a postr<u><small>A</small></u>arme<br>Vine a dec<u><small>F#m</small></u>ir que eres mi Di<u><small>G</small></u>os<br>Solo tú eres gr<u><small>D</small></u>ande<br>Solo tu eres d<u><small>A</small></u>igno<br>eres asombr<u><small>F#m</small></u>oso para m<u><small>G</small></u>i</b></p><hr><p>T<u><small>D</small></u>u eres el r<u><small>A</small></u>ey<br>Grandem<u><small>Em</small></u>ente exalt<u><small>G</small></u>ado<br>Glori<u><small>D</small></u>oso por si<u><small>A</small></u>empre Señ<u><small>G</small></u>or<br>El m<u><small>D</small></u>undo que cre<u><small>A</small></u>aste hum<u><small>Em</small></u>ilde viv<u><small>G</small></u>iste<br>Y p<u><small>D</small></u>obre te hic<u><small>A</small></u>iste por Am<u><small>G</small></u>or</p><hr><p>Nunc<u><small>A</small></u>a sabr<u><small>Bm</small></u>é<br>Cuant<u><small>G</small></u>o costo<br>Ver m<u><small>A</small></u>i mald<u><small>Bm</small></u>ad<br>Sobr<u><small>G</small></u>e esa cruz</p>'
 
-//FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
-function remplazar(cancionSolicitada){
-    document.getElementById("song").innerHTML= cancionSolicitada;
-    
-  }
+// Variables de Objetos
+var quiennosseparara = {llave: "quiennosseparara", nombre:"quien nos separara",artista:"Marcos witt",
+contenido: "queremos darte gloria"
+};
+var queremosdartegloria = {llave: "queremosdartegloria",nombre:"Queremos darte gloria",artista:"Danilo Montero",
+contenido: "tu presencia reinara por siempre"
+};
 
-//FUNCION DE OCULTAR CHORDS
-function hidechord(){
-        document.getElementById("chordvisibility").innerHTML=".hidechord u, sub {display:none;}";
-}
-function showchord(){
-        document.getElementById("chordvisibility").innerHTML="";
-}
-//FUNCION DE AUMENTAR TAMAÑO DE LETRA
-function upsize(tam){
-        document.getElementById("textResize").innerHTML="p {font-size:"+ tam +"%;}";
-}
-//FUNCION BAJAR MEDIO TONO
-function bajaMedioTono(){
-        var tono = document.getElementsByTagName("a");
-    
-        for (var n=0 ; n < tono.length ; n++){
-    
-          switch(tono[n].textContent){
-              
-              case "C":
-                document.getElementsByTagName("a")[n].innerHTML= "B" ; break;
-              
-              case "C#":
-                document.getElementsByTagName("a")[n].innerHTML= "C" ; break;
-    
-              case "D":
-                document.getElementsByTagName("a")[n].innerHTML= "C#" ; break;
-    
-              case "Eb":
-                document.getElementsByTagName("a")[n].innerHTML= "D" ; break;
-    
-              case "E":
-                document.getElementsByTagName("a")[n].innerHTML= "Eb" ; break;
-              
-              case "F":
-                document.getElementsByTagName("a")[n].innerHTML= "E" ; break;
-    
-              case "F#":
-                document.getElementsByTagName("a")[n].innerHTML= "F" ; break;
-                
-              case "G":
-                document.getElementsByTagName("a")[n].innerHTML= "F#" ; break;
-    
-              case "G#":
-                document.getElementsByTagName("a")[n].innerHTML= "G" ; break;
-    
-              case "A":
-                document.getElementsByTagName("a")[n].innerHTML= "G#" ; break;
-    
-              case "Bb":
-                document.getElementsByTagName("a")[n].innerHTML= "A" ; break;
-    
-              case "B":
-                document.getElementsByTagName("a")[n].innerHTML= "Bb" ; break;
-          }
-        } 
-      };
