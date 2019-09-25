@@ -1,12 +1,14 @@
 
-u {
-    vertical-align: 60%;
-    
-}
-a {
+#song a, .hidechord pre a {
     
     color: blue;
-    
+    font-size: 80%;
+}
+
+pre {
+
+line-height: 100%;
+
 }
 
 #list {
@@ -14,12 +16,7 @@ a {
     height: 200px;
     overflow: scroll;
 }
-span
- {
-    vertical-align: 60%;
-    color: blue;
-    position:absolute;
 
 
-}
+
 /* Syntax==>      <u><small>X</small></u>     */

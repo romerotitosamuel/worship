@@ -1,9 +1,7 @@
-var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Alabaza y honor", artista: "Marcos Witt" , bpm: "150", contenido:` <pre>
-Alabanza y honor
-Marcos Witt - bpm:101
-<hr>
-INTRO:  <a>F#m</a>  <a>C#</a>  
-
+var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Te daré alabaza y honor", artista: "Marcos Witt" , bpm: "150", categoria:"fast", contenido:` <pre>
+<b>Te daré alabanza y honor
+Marcos Witt - bpm:101</b>
+<a>INTRO:</a>  <a>F#m</a>  <a>C#</a>  
 <a>F#m</a>
 Tu sangre me redimio   
               <a>A</a>       
@@ -36,5 +34,6 @@ anciano de dia te quiero exaltar
 <a>D</a>                       <a>E</a>
 postrado te quiero adorar
 
-Solo: //<a>F#m</a> <a>A</a> <a>D</a> <a>E</a>// -- <a>D</a> <a>F#m<a> <a>D</a> <a>E</a>
+<a>Solo: //</a><a>F#m</a> <a>A</a> <a>D</a> <a>E</a><a>//</a>      
+     <a>D</a> <a>F#m<a> <a>D</a> <a>E</a>
 <pre>`};

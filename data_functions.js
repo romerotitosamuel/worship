@@ -2,7 +2,7 @@
 
 //Lista Ministerio
 
-lista= [alabanzayhonor];
+lista= [degloriaengloriabarrientos , alabanzayhonor, quiennosseparara, eresfiel, gloriaenloalto ];
 listaprint= null;
 listaunida= null;
 
@@ -26,14 +26,14 @@ function remplazar(cancionSolicitada){
 
 //FUNCION DE OCULTAR CHORDS
 function hidechord(){
-        document.getElementById("chordvisibility").innerHTML=".hidechord a, sub {display:none;}";
+        document.getElementById("chordvisibility").innerHTML="pre a {display:none;}";
 }
 function showchord(){
         document.getElementById("chordvisibility").innerHTML="";
 }
 //FUNCION DE AUMENTAR TAMAÑO DE LETRA
 function upsize(tam){
-        document.getElementById("textResize").innerHTML="p {font-size:"+ tam +"%;}";
+        document.getElementById("textResize").innerHTML="pre {font-size:"+ tam +"%;}";
 }
 //FUNCION BAJAR MEDIO TONO
 function bajaMedioTono(){

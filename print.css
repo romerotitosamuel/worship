@@ -1,4 +1,4 @@
-button, input, header, h6, a, hr {
+button, input, header, h6, hr, li {
     display: none;
 }
 #song {
@@ -10,7 +10,11 @@ button, input, header, h6, a, hr {
     display: none;
 }
 
+a {
 
+font-size: 80%;
+color: blue;
+}
 
 
 
