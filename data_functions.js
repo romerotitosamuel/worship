@@ -2,7 +2,7 @@
 
 //Lista Ministerio
 
-lista= [degloriaengloriabarrientos , alabanzayhonor, quiennosseparara, eresfiel, gloriaenloalto ];
+lista= [siempreestarasamilado , glorioso, hosannabarrientos ];
 listaprint= null;
 listaunida= null;
 
