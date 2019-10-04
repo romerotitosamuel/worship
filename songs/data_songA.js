@@ -1,4 +1,4 @@
-var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Te daré alabaza y honor", artista: "Marcos Witt" , bpm: "150", categoria:"fast", contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Te daré alabaza y honor", artista: "Marcos Witt" , bpm: "150", categoria:"fast", contenido:` <pre >
 <b>Te daré alabanza y honor
 Marcos Witt - bpm:101</b>
 <a>INTRO:</a>  <a>F#m</a>  <a>C#</a>  

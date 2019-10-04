@@ -1,4 +1,4 @@
-var hosannabarrientos = {llave: "hosannabarrientos", nombre: "Hosanna", artista: "Marco Barrientos" , bpm: "146", categoria:"fast" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var hosannabarrientos = {llave: "hosannabarrientos", nombre: "Hosanna", artista: "Marco Barrientos" , bpm: "146", categoria:"fast" , contenido:` <pre >
 <b>Hosanna
 Marco Barrientos - bpm: 146</b>
 <a>Intro:</a> <a>Bm</a> <a>A</a> <a>D</a><a>/</a><a>F#</a> <a>G</a>

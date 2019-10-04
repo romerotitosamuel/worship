@@ -1,4 +1,4 @@
-var gloriaenloalto = {llave: "gloriaenloalto", nombre: "Gloria en lo alto", artista: "Christine dClario" , bpm: "129", categoria:"low" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var gloriaenloalto = {llave: "gloriaenloalto", nombre: "Gloria en lo alto", artista: "Christine dClario" , bpm: "129", categoria:"low" , contenido:` <pre >
 <b>Gloria en lo alto
 Christine dClario - bpm: 100</b>
 <a>Intro:</a> <a>C</a> <a>Em</a> <a>F</a>
@@ -49,7 +49,7 @@ Solo Tú eres digno
 Solo Tú eres Dios
 <pre>`};
 
-var glorioso = {llave: "glorioso", nombre: "Glorioso", artista: "BJ Putnam" , bpm: "148", categoria:"fast" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var glorioso = {llave: "glorioso", nombre: "Glorioso", artista: "BJ Putnam" , bpm: "148", categoria:"fast" , contenido:` <pre >
 <b>Glorioso
 BJ Putnam - bpm: 148</b>
 <a>B</a>    <a>F#</a> <a>G#m</a> <a>E</a>

@@ -1,4 +1,4 @@
-var quiennosseparara = {llave: "quiennosseparara", nombre: "¿Quien nos separará?", artista: "Juan Carlos Alvarado" , bpm: "0", categoria: "fast" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var quiennosseparara = {llave: "quiennosseparara", nombre: "¿Quien nos separará?", artista: "Juan Carlos Alvarado" , bpm: "0", categoria: "fast" , contenido:` <pre>
 <b>¿Quién nos separará?
 Juan Carlos Alvarado</b>
 <a>Intro:</a> <a>G</a> <a>Bm</a> <a>C</a> <a>D</a>

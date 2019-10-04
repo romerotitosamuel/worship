@@ -1,5 +1,5 @@
 
-var eresfiel = {llave: "eresfiel", nombre: "Eres fiel", artista: "Marco Barrientos" , bpm: "129", categoria:"fast" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var eresfiel = {llave: "eresfiel", nombre: "Eres fiel", artista: "Marco Barrientos" , bpm: "129", categoria:"fast" , contenido:` <pre >
 <b>Eres fiel 
 Marco Barrientos - bpm: 129</b>
 <a>Intro:</a> <a>C</a> <a>G</a> <a>Bb</a> <a>F</a>
