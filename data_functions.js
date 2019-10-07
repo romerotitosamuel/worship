@@ -1,23 +1,5 @@
 
 
-//Lista Ministerio
-
-lista= [siempreestarasamilado , glorioso, hosannabarrientos ];
-listaprint= null;
-listaunida= null;
-
-for (var n=0; n<lista.length; n++){
-  listaprint= '<button type="button" class="btn btn-outline-dark btn-block btn-sm" onclick="remplazar(' + lista[n].llave + ')">' + lista[n].nombre + " - " + lista[n].artista + "</button>";
-  if (n==0){
-  listaunida = listaprint;
-  }
-  else {
-    listaunida = listaunida + listaprint;
-  }
-}
-document.getElementById("espaciolista").innerHTML = listaunida;
-
-
 //FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
 function remplazar(cancionSolicitada){
     document.getElementById("song").innerHTML= cancionSolicitada.contenido;
