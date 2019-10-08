@@ -1,4 +1,4 @@
-lista2= [ohven];
+lista2= [comodijiste, tuguiasmidestino, ohven, vamosacantar];
 listaprint2= null;
 listaunida2= null;
 

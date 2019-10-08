@@ -3,7 +3,6 @@
 //FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
 function remplazar(cancionSolicitada){
     document.getElementById("song").innerHTML= cancionSolicitada.contenido;
-    
   }
 
 //FUNCION DE OCULTAR CHORDS
