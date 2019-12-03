@@ -37,3 +37,35 @@ postrado te quiero adorar
 <a>Solo: //</a><a>F#m</a> <a>A</a> <a>D</a> <a>E</a><a>//</a>      
      <a>F#m</a> <a>E<a> <a>F#m</a> <a>E</a>
 <pre>`};
+
+var alqueestasentadoeneltrono = {llave: "alqueestasentadoeneltrono", nombre: "Al que esta sentado en el trono", artista: "Marcos Brunet" , bpm: "133", categoria:"low", contenido:` <pre >
+<b>Al que esta sentado en el trono
+Marcos Brunet - bpm: 133</b>
+<a>Intro:</a> <a>C</a> <a>Em</a> <a>G</a> 
+   <a>G</a>               <a>Em</a>
+Quiero conocerte cada dia mas a Ti
+    <a>C</a>                        <a>C</a>  <a>D</a>  <a>C</a>  <a>D</a>
+entrar en Tu presencia y adorar
+<a>Em</a>                     <a>D</a>
+Revelanos Tu gloria, deseamos ir mucho mas a ti
+     <a>C</a>                   <a>D</a>
+queremos Tu presencia, Jesus
+
+<a>G</a>
+Al que esta sentado en el trono,
+<a>Em</a>
+al que vive para siempre y siempre
+            <a>C</a>          <a>D</a>
+sea la gloria, sea la honra y el poder
+            <a>C</a>          <a>D</a>
+sea la gloria, sea la honra y el poder
+
+<a>G</a>
+Al que esta sentado en el trono,
+<a>Em</a>
+al que vive para siempre y siempre
+            <a>Am</a>          <a>G</a><a>/</a><a>B</a>
+sea la gloria, sea la honra y el poder
+            <a>C</a>          <a>D</a>
+sea la gloria, sea la honra y el poder
+<pre>`};

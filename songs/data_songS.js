@@ -1,4 +1,4 @@
-var siempreestarasamilado = {llave: "siempreestarasamilado", nombre: "Simpre estarás a mi lado", artista: "Danilo Montero" , bpm: "0", categoria:"fast" , contenido:` <pre style="font-family: Arial, Helvetica, sans-serif">
+var siempreestarasamilado = {llave: "siempreestarasamilado", nombre: "Simpre estarás a mi lado", artista: "Danilo Montero" , bpm: "0", categoria:"fast" , contenido:` <pre>
 <b>Siempres estarás a mi lado
 Danilo Montero</b>
 <a>Intro:</a> <a>D</a> <a>Em</a> <a>Bm</a> <a>C</a>

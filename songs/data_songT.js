@@ -30,3 +30,49 @@ Solo Tú.
 <a>Puente:</a> <a>F</a> <a>C</a> <a>G</a>
 <a>Final:</a> <a>C</a> <a>Am</a> <a>C</a>
 <pre>`};
+
+var tempranoyotebuscare = {llave: "tempranoyotebuscare", nombre: "Temprano yo te buscaré", artista: "Marcos Witt" , bpm: "123", categoria:"low" , contenido:` <pre>
+<b>Temprano yo te buscaré
+Marcos Witt - bpm: 123</b> 
+<a>Intro:</a> <a>G</a> <a>C</a>
+<a>G</a>         <a>C</a>          <a>D</a>
+Temprano yo te buscaré
+<a>Am</a>       <a>G</a><a>/</a><a>D</a>         <a>C</a>        <a>D</a>
+De madrugada yo me acercaré a Ti
+<a>G</a>            <a>C</a>             <a>D</a>
+Mi alma te anhela y tiene sed
+<a>Am</a>    <a>G</a><a>/</a><a>D</a>          <a>C</a>       <a>D</a>
+Para ver tu gloria y tu poder
+
+<a>G</a>     <a>D</a>             <a>Em</a>  <a>D</a>
+Mi socorro has sido Tú
+         <a>G</a>             <a>D</a>   <a>C</a>          <a>D</a>
+Y en la sombra de tus alas yo me gozaré
+<a>G</a>          <a>D</a>          <a>Em</a> <a>D</a>
+Mi alma está pegada a Ti
+            <a>C</a>                  <a>D</a>
+Porque tu diestra me ha sostenido
+         <a>Am</a>  <a>G</a><a>/</a><a>D</a>           <a>C</a> <a>D</a> <a>G</a>
+Oh, tu diestra me ha sostenido
+<pre>`};
+var tufidelidad = {llave: "tufidelidad", nombre: "Tu fidelidad", artista: "Marcos Witt" , bpm: "106", categoria:"low" , contenido:` <pre>
+<b>Tu fidelidad
+Marcos Witt - bpm: 106</b>
+<a>C</a>       <a>Am</a>       <a>Dm</a>
+Tu fidelidad es grande,
+<a>G</a>                 <a>C</a>          <a>G</a><a>/</a><a>B</a>
+Tu fidelidad incomparable es,
+<a>Am</a>                        <a>Dm</a>
+nadie como tú, bendito Dios
+<a>F</a>          <a>G</a>          <a>C</a>         
+gran de es tu fidelidad
+
+<a>D</a>       <a>Bm</a>     <a>Em</a>
+Tu fidelidad es grande,
+<a>A</a>                  <a>D</a>        <a>A</a><a>/</a><a>C#</a>
+Tu fidelidad incomparable es,
+<a>Bm</a>                       <a>Em</a>
+nadie como tú, bendito Dios
+<a>G</a>            <a>A</a>      <a>D</a>
+gran de es tu fidelidad
+<pre>`};
