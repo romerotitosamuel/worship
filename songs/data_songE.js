@@ -26,3 +26,44 @@ Eres Señor, Eres fiel
 Eres fiel, siempre fiel
 Siempre fiel, eres fiel
 <pre>`};
+
+var eleselrey = {llave: "eleselrey", nombre: "Él es el rey", artista: "Danilo Montero" , bpm: "134", categoria:"fast" , contenido:` <pre >
+<b>Él es el Rey
+Danilo Montero - bpm: 134</b>
+<a>Intro:</a> <a>Em</a> <a>C</a> <a>G</a> <a>D</a>
+<a>Em</a>               <a>C</a>
+El es el Rey infinito en poder
+<a>Em</a>                 <a>C</a>
+El es el Rey de los cielos
+<a>Em</a>              <a>C</a>
+seré para El siervo fiel
+           <a>G</a>               <a>D</a>
+pues mi vida compró con Su amor
+
+<a>Em</a>                 <a>C</a>
+El es el Rey lo confiesa mi ser
+<a>Em</a>                  <a>C</a>
+El es el Rey de los siglos
+<a>Em</a>               <a>C</a>
+mi vida la rindo a Sus pies
+<a>G</a>                   <a>D</a>
+El es Rey sobre mi corazón
+
+<a>Em</a>            <a>C</a>
+El es el Rey, El es el Rey
+<a>G</a>                 <a>D</a>
+El es el Rey de mi vida
+<a>Em</a>            <a>C</a>
+El es el Rey, El es el Rey
+<a>G</a>           <a>D</a>
+reina con autoridad
+
+<a>C</a>               <a>D</a>
+Su reino eterno es
+<a>Em</a>               <a>C</a>
+Su trono el cielo es
+<a>Am</a>
+El es el Rey
+         <a>D</a>                    <a>Em</a>
+que viene a Su pueblo a llevar
+<pre>`};

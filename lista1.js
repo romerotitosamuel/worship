@@ -1,4 +1,4 @@
-lista= [siempreestarasamilado , glorioso, hosannabarrientos ];
+lista= [tempranoyotebuscare , alqueestasentadoeneltrono , tufidelidad , eleselrey , grandeyfuertemiel ];
 
 listaprint= null;
 listaunida= null;

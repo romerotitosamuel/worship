@@ -95,3 +95,35 @@ Tu luz brillará todos veran
               <a>E</a>
 No hay nadie como tú
 <pre>`};
+
+var grandeyfuertemiel = {llave: "grandeyfuertemiel", nombre: "Grande y Fuerte", artista: "Miel San Marcos" , bpm: "150", categoria:"fast" , contenido:` <pre >
+<b>Grande y fuerte
+Miel San Marcos - BPM: 150</b>
+<a>Intro:</a> <a>Am</a> <a>F</a> <a>Em</a>
+<a>Am</a>      <a>F</a>         <a>Em</a>      <a>Am</a>   <a>F</a>      <a>Em</a>
+Grande y Fuerte es nuestro Dios
+  <a>Am</a>      <a>F</a>         <a>Em</a>      <a>Am</a>   <a>F</a>      <a>Em</a>
+Grande y Fuerte es nuestro Dios
+  <a>Am</a>      <a>F</a>         <a>Em</a>      <a>Am</a>   <a>F</a>      <a>Em</a>
+Grande y Fuerte es nuestro Dios
+  <a>Am</a>      <a>F</a>         <a>Em</a>      <a>A</a>  <a>A</a><a>/</a><a>C#</a>
+Grande y Fuerte es nuestro Dios
+
+  <a>Dm</a>            <a>G</a>       <a>Dm</a>        <a>Am</a>
+Vestido en majestad coronado con poder
+      <a>F</a>        <a>G</a>       <a>Am</a>   <a>G</a><a>/</a><a>B</a>  <a>A</a><a>/</a><a>C#</a>
+Digno de toda la adoracion
+  <a>Dm</a>            <a>G</a>       <a>Dm</a>        <a>Am</a>
+Vestido en majestad coronado con poder
+      <a>F</a>              <a>G</a>       <a>Am</a> 
+Toda gloria y honra sea para ti
+
+    <a>Am</a>     <a>F</a>     <a>Em</a>  <a>Am</a>  <a>F</a> <a>Em</a>
+¡Grande!!          Fuerte
+            <a>Am</a>    <a>F</a>     <a>Em</a>
+¡Es nuestro Dios!
+    <a>Am</a>           <a>G</a>        <a>F</a>           <a>Em</a>
+¡¡Grande!! y ¡Fuerte! ¡Es  nuestro   Dios!
+    <a>Am</a>                                  <a>A</a> <a>Bb</a> <a>C</a> <a>C#</a>
+¡¡Grande!! y ¡¡Fuerte!! Es nuestro Dios
+<pre>`};
