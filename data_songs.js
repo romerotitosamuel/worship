@@ -10,4 +10,5 @@ document.write(`
 <script src="./songs/data_songS.js"></script>
 <script src="./songs/data_songT.js"></script>
 <script src="./songs/data_songV.js"></script>
+<script src="./songs/data_songW.js"></script>
 `);

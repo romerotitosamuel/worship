@@ -1,4 +1,4 @@
-lista= [tempranoyotebuscare , alqueestasentadoeneltrono , tufidelidad , eleselrey , grandeyfuertemiel ];
+lista= [teamojesus , somoselpueblodedios , asiestuamor  ];
 
 listaprint= null;
 listaunida= null;

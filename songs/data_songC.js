@@ -1,4 +1,48 @@
-var comodijiste = {llave: "comodijiste", nombre: "Como dijiste", artista: "Christine dClario" , bpm: "147", categoria:"low", contenido:` <pre >
+var cambiaremitristeza = {llave: "cambiaremitristeza", nombre: "Cambiare mi tristeza", artista: "Vertical" , bpm: "", categoria:"low", contenido:` <pre>
+<b>Cambiaré mi risteza
+Vertical - bpm:</b>
+<a>Intro:</a> <a>A</a> <a>D</a> <a>F#m</a> <a>E</a>
+<a>A</a>        <a>D</a>      <a>F#m</a> <a>E</a>
+Cambiaré mi tristeza
+<a>A</a>       <a>D</a>       <a>F#m</a> <a>E</a>
+Cambiaré mi vergüenza
+<a>A</a>       <a>D</a>    <a>F#m</a>       <a>E</a>        <a>A</a> <a>D</a> <a>F#m</a> <a>E</a>
+Los entregaré por el gozo de Dios
+
+<a>A</a>       <a>D</a>     <a>F#m</a> <a>E</a>
+Cambiaré mi dolor
+<a>A</a>       <a>D</a>  <a>F#m</a>  <a>E</a>
+Y mi enfermedad
+<a>A</a>        <a>D</a> <a>F#m</a>         <a>E</a>       <a>A</a> <a>D</a> <a>F#m</a> <a>E</a>
+Los entregaré por el gozo de Dios
+
+<a>A</a>     <a>D</a>      <a>F#m</a>    <a>E</a>
+Sí Señor sí, sí Señor
+<a>A</a>     <a>D</a>      <a>F#m</a>    <a>E</a>
+Sí Señor sí, sí Señor
+<a>A</a>     <a>D</a>      <a>F#m</a>    <a>E</a>
+Sí Señor sí, sí Señor
+   <a>A</a> <a>D</a> <a>F#m</a> <a>E</a> 
+Amén
+
+    <a>A</a>            <a>D</a>        <a>F#m</a>     <a>E</a>
+Estando atribulado pero nunca derrotado
+<a>A</a>         <a>D</a>    <a>F#m</a> <a>E</a>
+Y perseguido esté hoy
+      <a>A</a>   <a>D</a>
+Maldiciones no me afectan
+        <a>F#m</a>         <a>E</a>
+Pues yo sé a quien voy
+<a>A</a>       <a>D</a>    <a>F#m</a>   <a>E</a>
+En Su gozo fuerte soy
+
+<a>E</a>                 
+Aunque triste en la noche yo esté
+       <a>G</a>            <a>D</a>
+Gozo viene en la mañana
+<pre>`};
+
+var comodijiste = {llave: "comodijiste", nombre: "Como dijiste", artista: "Christine dClario" , bpm: "147", categoria:"low", contenido:` <pre>
 <b>Como dijiste
 Christine dClario - bpm: 147</b>
 <a>Dm</a>          <a>C</a><a>/</a><a>E</a>          <a>F</a> 
@@ -39,3 +83,4 @@ Con fuerza me buscas, para abrazarme,
        <a>Dm</a>             <a>F</a>
 Me envuelves en tu amor
 <pre>`};
+

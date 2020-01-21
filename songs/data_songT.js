@@ -55,6 +55,26 @@ Porque tu diestra me ha sostenido
          <a>Am</a>  <a>G</a><a>/</a><a>D</a>           <a>C</a> <a>D</a> <a>G</a>
 Oh, tu diestra me ha sostenido
 <pre>`};
+
+var teamojesus = {llave: "teamojesus", nombre: "Te amo Jesús", artista: "Daniel Calveti" , bpm: "140", categoria:"fast" , contenido:` <pre>
+<b>Te amo Jesus
+Daniel Calveti - bpm: 140</b>
+<a>Intro:</a> <a>G</a> <a>D</a> <a>Em</a> <a>C</a>
+<a>G</a>             <a>D</a>              <a>Em</a>
+Fuiste a la cruz a morir por mí
+             <a>C</a>
+Hoy te agradezco por amarme así
+<a>G</a>           <a>D</a>             <a>Em</a>
+Le diste valor a mi vida Señor
+               <a>C</a>                   
+Por eso te adoro, te adoro Cristo
+
+<a>F</a>        <a>C</a>           <a>Gm</a>        <a>Dm</a>
+Te amo Jesús, me cambiaste tu a mi
+<a>F</a>         <a>C</a>             <a>Gm</a>        <a>C</a>
+Veo el antes y ahora y soy feliz
+<pre>`};
+
 var tufidelidad = {llave: "tufidelidad", nombre: "Tu fidelidad", artista: "Marcos Witt" , bpm: "106", categoria:"low" , contenido:` <pre>
 <b>Tu fidelidad
 Marcos Witt - bpm: 106</b>

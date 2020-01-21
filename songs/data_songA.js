@@ -69,3 +69,40 @@ sea la gloria, sea la honra y el poder
             <a>C</a>          <a>D</a>
 sea la gloria, sea la honra y el poder
 <pre>`};
+var asiestuamor = {llave: "asiestuamor", nombre: "Así es tu amor", artista: "En tu Presencia" , bpm: "105", categoria:"fast", contenido:` <pre >
+Así es tu amor
+En tu Presencia - bpm: 105
+<a>Intro:</a> <a>A</a> <a>F#m</a> <a>E</a> <a>D</a>
+<a>A</a>                    <a>F#m</a>           <a>E</a>            <a>D</a>
+Hay un deseo en mi corazón de estar donde tu estas
+<a>A</a>                    <a>F#m</a>             <a>E</a>            <a>D</a>
+Se que no hay mejor lugar quiero habitar en tu altar
+<a>A</a>                    <a>F#m</a>       <a>E</a>            <a>D</a>
+He buscado en otras cosas el amor sin encontrar
+            <a>A</a>         <a>F#m</a>      <a>E</a>       <a>D</a>
+Me doy cuenta que tu amor mi vida llenara
+
+<a>A</a>          <a>F#m</a>       <a>E</a>        <a>D</a>
+Paciente y bondadoso es (así es tu amor)
+<a>A</a>         <a>F#m</a>          <a>E</a>            <a>D</a>
+Todo lo espera y lo soporta (Así es tu amor)
+<a>A</a>          <a>F#m</a>          <a>E</a>       <a>D</a>
+No tiene envidia ni rencor (Así es tu amor)
+<a>A</a>        <a>F#m</a>           <a>B</a> <a>D</a>
+Tu amor nunca deja de ser, así es tu amor
+
+<a>A</a>             <a>F#m</a>            
+Me cuidas, me amas
+     <a>E</a>           <a>D</a>
+Me cubres, me abrazas
+<a>A</a>           <a>F#m</a>   <a>E</a>      <a>D</a>      
+Mejor que la vida es tu amor
+<a>A</a>            <a>F#m</a>           
+Tan alto, sublime
+<a>E</a>              <a>D</a>
+Perfecto y eterno
+<a>A</a>            <a>F#m</a>  <a>E</a>       <a>D</a>
+Mejor que la vida es tu amor por mi
+
+<a>Solo:</a> <a>F#m</a> <a>E</a> <a>D</a>
+<pre>`};
