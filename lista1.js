@@ -1,4 +1,4 @@
-lista= [teamojesus , somoselpueblodedios , asiestuamor  ];
+lista= [teamojesus , somoselpueblodedios , asiestuamor , graciasublimees , ohgraciasencontrelavida  ];
 
 listaprint= null;
 listaunida= null;

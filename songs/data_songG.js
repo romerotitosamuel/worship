@@ -96,6 +96,55 @@ Tu luz brillará todos veran
 No hay nadie como tú
 <pre>`};
 
+var graciasublimees = {llave: "graciasublimees", nombre: "Gracia sublime es", artista: "En espíritu y en verdad" , bpm: "99", categoria:"fast" , contenido:` <pre >
+<b>Gracia sublime es
+En espíritu y en verdad - bpm: 99</b>
+<a>Intro:</a> <a>A</a> <a>D</a>
+<a>A</a>           
+Quien rompe el poder del pecado
+<a>D</a>         
+su amor es fuerte y poderoso
+<a>F#m</a>               <a>E</a>              <a>D</a>
+El rey de gloria el rey de majestad
+
+<a>A</a>          
+Conmueve al mundo con su estruendo
+<a>D</a>        
+Y nos asombra con maravillas
+<a>F#m</a>              <a>E</a>               <a>D</a>
+El rey de gloria el rey de majestad
+
+<a>A</a>                  <a>D</a>
+Gracia sublime es, perfecto es tu amor
+<a>F#m</a>              <a>E</a> 
+Tomaste mi lugar cargaste tu mi cruz
+<a>A</a>                          <a>D</a>                
+Tu vida diste ahí y ahora libre soy
+            <a>E</a>                          <a>D</a>
+Jesús te adoro por lo que hiciste en mí
+
+<a>A</a>          
+Pusiste en orden todo el caos
+<a>D</a>        
+Nos adoptaste  como tus hijos
+<a>F#m</a>              <a>E</a>               <a>D</a>
+El rey de gloria el rey de majestad
+
+<a>A</a>         
+El que gobierna con su justicia
+<a>D</a>         
+Y resplandece con su belleza
+<a>F#m</a>                <a>E</a>             <a>D</a>
+El rey de gloria el rey de majestad
+
+    <a>A</a>
+///Digno es el cordero de Dios,
+<a>D</a>
+Digno es el rey que la muerte venció///
+<a>F#m</a>                          <a>E</a>
+Digno es el cordero de Dios, digno digno
+<pre>`};
+
 var grandeyfuertemiel = {llave: "grandeyfuertemiel", nombre: "Grande y Fuerte", artista: "Miel San Marcos" , bpm: "150", categoria:"fast" , contenido:` <pre >
 <b>Grande y fuerte
 Miel San Marcos - BPM: 150</b>
