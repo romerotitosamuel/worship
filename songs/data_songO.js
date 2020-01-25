@@ -42,7 +42,7 @@ No tengo nada en mis manos que entregarte
 Mi ofrenda solamente gratitud
 <a>D</a>                  <a>Em</a>              <a>C</a>
 No tengo dinero ni manera para repagarte
-           <a>D</a>                     <a>C</a>
+            <a>D</a>                     <a>C</a>
 La vida en abundancia que me has dado en plenitud
 
 <a>D</a>                  <a>Em</a>        <a>C</a>
@@ -51,14 +51,14 @@ Al entrar aquí con agradecimiento
 Es tu sangre que me ha dado este lugar
 <a>D</a>              <a>Em</a>         <a>C</a>
 Tu amor sobre pasa entendimiento
-       <a>D</a>                          <a>C</a>
+        <a>D</a>                          <a>C</a>
 Y expresar mi gratitud nunca lo podré pagar
 
-
-<a>Puente:</a> <a>G</a> <a>F</a> <a>C</a> <a>Bb</a>   <a>Bb</a> <a>C</a>
+<a>Puente:</a> <a>G</a> <a>F</a> <a>C</a> <a>Bb</a>     <a>Bb</a> <a>C</a>
+      <a>G</a> <a>F</a> <a>C</a> <a>G</a>      <a>Bb</a> <a>C</a> <a>X2</a>
 <a>G</a>                        <a>F</a>
 Nadie me ha protegido   Nadie me ha sostenido
-<a>C</a>                         <a>G</a>   <a>Bb</a> <a>C</a>
+<a>C</a>                         <a>Bb</a>   <a>Bb</a> <a>C</a>
 Nadie me ha cuidado como Tú
 <a>G</a>                       <a>F</a>
 Es por eso que me rindo Es por eso que me entrego
