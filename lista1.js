@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 lista= [tuamorpormi, vieneya, soberano, grandeyfuerteomar, glorioso];
-=======
-lista= [teamojesus , somoselpueblodedios , asiestuamor , graciasublimees , ohgraciasencontrelavida  ];
->>>>>>> 43076337f2b0ecc3134dd3a22467d08b594c695b
 
 listaprint= null;
 listaunida= null;
