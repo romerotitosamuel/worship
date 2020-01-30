@@ -47,6 +47,42 @@ Yo voy alabarte   mientras tenga vida
                <a>D</a> <a>A</a>             <a>G</a>
 Y cuando se acabe por la eternidad
 <pre>`};
+var soberano = {llave: "soberano", nombre: "Soberano", artista: "Hillsong" , bpm: "70", categoria:"low" , contenido:` <pre>
+<b>Soberano
+Hillsong - bpm: 70</b>
+<a>Intro:</a> <a>C</a> <a>Am</a>
+<a>C</a>                      <a>Am</a>
+Manos que fueron clavadas por mí.
+<a>C</a>                           <a>Am</a>
+Heridas que hablan de tu inmenso amor.
+
+<a>Dm</a>    <a>F</a>       <a>C</a>        <a>G</a>    
+Por eso te llamo mi Cristo,
+<a>Dm</a>          <a>F</a>
+Por eso te canto.
+
+<a>G</a>            <a>Dm</a>               <a>F</a>  
+Dios del universo, salvador eterno,
+             <a>C</a>
+Rey de toda la creación.
+<a>G</a>           <a>Dm</a>                 <a>F</a>   
+Redentor divino, Dios a ti me rindo,
+              <a>C</a>
+La gloria te doy.
+
+<a>C</a>          <a>Am</a>
+Santo Dios, Tu plan soberano es,
+<a>C</a>         <a>Am</a>
+El enviar tu hijo por la humanidad.
+
+<a>G</a>      <a>Dm</a>     <a>F</a>      <a>C</a>
+Santo, Santo, Santo Dios
+
+<a>C</a>        <a>Am</a>
+Manos que se entregaron por amor,
+<a>C</a>          <a>Am</a>
+Lo que soy siempre te daré, Señor.
+<pre>`};
 
 var somoselpueblodedios = {llave: "somoselpueblodedios", nombre: "Somos el pueblo de Dios", artista: "Marcos Witt" , bpm: "101", categoria:"fast" , contenido:` <pre>
 <b>Somos el pueblo de Dios

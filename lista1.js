@@ -1,4 +1,4 @@
-lista= [teamojesus , somoselpueblodedios , asiestuamor  ];
+lista= [tuamorpormi, vieneya, soberano, grandeyfuerteomar, glorioso];
 
 listaprint= null;
 listaunida= null;

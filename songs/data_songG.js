@@ -89,13 +89,12 @@ Cantaré cantaré
 Tú eres El Señor
 <a>E</a>       <a>B</a>        <a>F#</a>
 Declararé nadie como Tú
-
+<a>Interludio:</a> <a>E</a> <a>Eb</a> <a>G#m</a> <a>E</a>
  <a>B</a>            <a>Eb</a>          <a>G#m</a>
 Tu luz brillará todos veran
               <a>E</a>
 No hay nadie como tú
 <pre>`};
-
 var grandeyfuertemiel = {llave: "grandeyfuertemiel", nombre: "Grande y Fuerte", artista: "Miel San Marcos" , bpm: "150", categoria:"fast" , contenido:` <pre >
 <b>Grande y fuerte
 Miel San Marcos - BPM: 150</b>
@@ -126,4 +125,22 @@ Toda gloria y honra sea para ti
 ¡¡Grande!! y ¡Fuerte! ¡Es  nuestro   Dios!
     <a>Am</a>                                  <a>A</a> <a>Bb</a> <a>C</a> <a>C#</a>
 ¡¡Grande!! y ¡¡Fuerte!! Es nuestro Dios
+<pre>`};
+var grandeyfuerteomar = {llave: "grandeyfuerteomar", nombre: "Grande y Fuerte", artista: "Omar Oropesa" , bpm: "79", categoria:"fast" , contenido:` <pre >
+<b>Grande y fuerte
+Omar Oropesa - bpm: 79</b>
+<a>Intro:</a> <a>Am</a> <a>G</a>
+     <a>Am</a>              <a>Em</a>
+Mi Dios es grande y fuerte
+   <a>F</a>          <a>E</a>
+Y su palabra vence
+     <a>Am</a>       <a>G</a>           <a>F</a>        <a>E</a>
+Sus enemigos tiemblan y huyen ante Él
+
+        <a>F</a>   <a>G</a>      <a>Em</a>      <a>Am</a>
+Jesucristo es el señor, mi rey
+        <a>F</a>       <a>G</a>
+Y en su nombre hay
+       <a>Em</a>       <a>Am</a>
+Hay poder para vencer
 <pre>`};

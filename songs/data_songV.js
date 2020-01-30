@@ -28,3 +28,33 @@ Vivimos hoy
 
 <a>Solo:</a> <a>D</a>  <a>C</a>  <a>G</a>
 <pre>`};
+var vieneya = {llave: "vieneya", nombre: "Viene ya", artista: "Miel San Marcos" , bpm: "150", categoria:"fast" , contenido:` <pre>
+<b>Viene ya
+Miel San Marcos - bpm: 150</b>
+<a>Intro:</a> <a>Am</a> <a>F</a> <a>C</a> <a>G</a>
+<a>Am</a>    <a>F</a>        <a>C</a>              <a>G</a>
+Preparemos el camino, Cristo viene ya
+<a>Am</a>    <a>F</a>        <a>C</a>        <a>G</a>
+Anunciemos su venida en todo lugar
+<a>Am</a>     <a>F</a>        <a>C</a>               <a>G</a>
+Que se abran hoy las puertas, el Rey viene ya
+<a>Am</a>    <a>F</a>        <a>C</a>              <a>G</a>
+Volveremos a adorarle por la eternidad
+
+      <a>F</a>        <a>C</a>
+Viene ya, mi Amado
+<a>G</a>            <a>Am</a>
+Pronto le veré
+      <a>F</a>       <a>C</a>
+Viene ya, mi Amado
+<a>G</a>            <a>Am</a>
+Pronto volverá
+          <a>F</a>        <a>C</a>
+Y voy cantando, gritando,
+      <a>G</a>             <a>Am</a>
+Celebrando su victoria
+        <a>F</a>       <a>C</a>
+Viene ya, mi Amado
+<a>G</a>             <a>Am</a>
+Cristo viene ya
+<pre>`};
