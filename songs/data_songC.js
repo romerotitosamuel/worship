@@ -84,3 +84,32 @@ Con fuerza me buscas, para abrazarme,
 Me envuelves en tu amor
 <pre>`};
 
+var creoenti = {llave: "creoenti", nombre: "Creo en tí", artista: "Julio Melgar" , bpm: "70", categoria:"low", contenido:` <pre>
+<b>Creo en tí
+Julio Melgar - bpm: 140</b>
+<a>Intro:</a> <a>G</a> <a>A</a> <a>F#m</a> <a>G</a>    <a>G</a> <a>A</a> <a>Bm</a>
+<a>Bm</a>              <a>G</a>
+Quiero levantar a Ti mis manos
+       <a>D</a>               <a>A</a>
+Maravilloso Jesús, milagroso Señor,
+ <a>Bm</a>               <a>G</a>
+Llena este lugar de Tu presencia
+           <a>D</a>
+Y haz descender Tu poder
+             <a>A</a>
+A los que estamos aquí
+
+       <a>Bm</a> <a>A</a>  <a>G</a>
+Creo en Ti, Jesús
+             <a>Bm</a>    <a>A</a>  <a>G</a>
+Y en lo que harás en mi
+   <a>D</a>       <a>A</a>     
+En mi, en mi
+
+        <a>Bm</a>
+Recibe toda la gloria, recibe
+        <a>G</a>
+Recibe toda la honra
+     <a>D</a>           <a>A</a>
+Precioso Hijo de Dios
+<pre>`};

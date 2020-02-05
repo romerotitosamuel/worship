@@ -1,4 +1,4 @@
-lista= [tuamorpormi, vieneya, soberano, grandeyfuerteomar, glorioso];
+lista= [creoenti, asiestuamor];
 
 listaprint= null;
 listaunida= null;
