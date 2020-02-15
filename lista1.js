@@ -1,4 +1,4 @@
-lista= [creoenti, asiestuamor];
+lista= [degloriaengloriabarrientos, comodijiste];
 
 listaprint= null;
 listaunida= null;
