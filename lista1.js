@@ -1,4 +1,4 @@
-lista= [degloriaengloriabarrientos, comodijiste];
+lista= [degloriaengloriabarrientos, vieneya, glorioso];
 
 listaprint= null;
 listaunida= null;

@@ -127,3 +127,42 @@ anunciaremos al mundo
                  <a>G</a>
 de su amor y verdad
 <pre>`};
+
+var soyfeliz = {llave: "soyfeliz", nombre: "Soy feliz", artista: "Miel San Marcos" , bpm: "128", categoria:"fast" , contenido:` <pre>
+<b>Soy feliz
+Miel San Marcos - bpm: 128</b>
+<a>Intro:</a> <a>F</a> <a>C</a> <a>G</a> <a>Am</a>
+<a>F</a>    <a>C</a>      <a>G</a>      <a>Am</a>
+Fui creado para adorar
+<a>F</a>        <a>C</a>     <a>G</a>     <a>Am</a>
+Marcado desde la eternidad
+<a>F</a>       <a>C</a>     <a>G</a>     <a>Am</a>
+En ti está mi identidad
+<a>F</a>        <a>C</a>         <a>G</a>      <a>Intro</a>
+Cristo Jesús, me haces feliz.
+
+<a>F</a>     <a>C</a>      <a>G</a>     <a>Am</a>
+Tu nombre en alto está
+<a>F</a>       <a>C</a>       <a>G</a>       <a>Am</a>
+Tu majestad brillando está
+<a>F</a>           <a>C</a>       <a>G</a>       <a>Am</a>
+Tu amor por mí por siempre será
+<a>F</a>        <a>C</a>       <a>G</a>        <a>C</a>
+Cristo Jesús, me haces feliz.
+
+<a>F</a>            <a>G</a>   <a>Am</a>
+Soy feliz en Cristo
+<a>F</a>     <a>C</a>      <a>G</a>    <a>Am</a>
+Me salvó, me perdonó
+<a>F</a>                 <a>G</a>   <a>Am</a>
+Estoy completo en Cristo
+<a>F</a>          <a>C</a>       <a>G</a>       <a>Intro</a>
+Él vive en mí, no vuelvo atrás.
+
+<a>Am</a>       <a>G</a>    <a>F</a>       <a>Em</a>  <a>G</a>
+Soy feliz, Él vive en mí
+<a>Am</a>         <a>G</a>    <a>F</a>     <a>Em</a>  <a>G</a>
+Puedo danzar y celebrar
+
+<a>Solo:</a> <a>Am</a> <a>G</a> <a>F</a> <a>Em</a> <a>G</a>
+<pre>`};

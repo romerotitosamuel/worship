@@ -1,4 +1,4 @@
-lista2= [comodijiste, tuguiasmidestino, ohven, vamosacantar, degloriaengloriabarrientos];
+lista2= [soyfeliz, grandeyfuertemiel];
 listaprint2= null;
 listaunida2= null;
 
