@@ -1,4 +1,4 @@
-lista= [diosdeloimposible, vieneya, glorioso];
+lista= [diosdeloimposible, increible, pormimurio, eleselrey];
 
 listaprint= null;
 listaunida= null;
