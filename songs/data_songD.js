@@ -37,4 +37,34 @@ De gloria en gloria, te veo Dios
 De gloria en gloria,
   <a>Gm</a>            <a>F</a>
 transformado soy por Tu Espíritu
-<pre>`};
+</pre>`};
+
+var diosdeloimposible = {llave: "diosdeloimposible" , nombre: "Dios de lo imposible", artista: "Marco Barrientos" , bpm: "140" , categoria: "slow" , contenido:`<pre>
+<b>Dios de lo imposible
+Marco Barrientos – bpm: 140</b>
+
+<a>Intro:</a> <a>Am</a> <a>F</a> <a>C</a> <a>G</a> 
+      <a>Am</a>                   <a>F</a> 
+Jesucristo, reinas con poder
+      <a>C</a>                <a>G</a> 
+Soberano, victorioso Rey
+          <a>Am</a>            <a>F</a> 
+Ni la muerte pudo detener
+  <a>C</a>                <a>G</a> 
+Tu poder para vencer
+
+<a>C</a>                      <a>G</a>
+Dios de lo imposible, te adoramos
+<a>Am</a>                <a>G</a> 
+Eres invencible, soberano
+<a>F</a>                 <a>G</a>   (<a>Am</a> – <a>G</a>) 
+Tuya es toda la gloria
+<a>F</a>                  <a>G</a> 
+Tuyo es todo el honor
+
+<a>Solo:</a> <a>Dm</a> <a>Am</a> <a>F</a> <a>G</a>
+
+
+
+</pre>
+`}
