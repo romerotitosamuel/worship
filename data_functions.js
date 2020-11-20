@@ -3,6 +3,8 @@
 //FUNCION DE REMPLAZAR LA CANCION SOLICITADA:
 function remplazar(cancionSolicitada){
     document.getElementById("song").innerHTML= cancionSolicitada.contenido;
+    
+    document.getElementById("vid").innerHTML= '<iframe width="350" height="50" src='+cancionSolicitada.enlace+' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
   }
 
 //FUNCION DE OCULTAR CHORDS

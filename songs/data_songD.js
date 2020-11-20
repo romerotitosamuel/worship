@@ -39,7 +39,7 @@ De gloria en gloria,
 transformado soy por Tu Espíritu
 </pre>`};
 
-var diosdeloimposible = {llave: "diosdeloimposible" , nombre: "Dios de lo imposible", artista: "Marco Barrientos" , bpm: "140" , categoria: "slow" , contenido:`<pre>
+var diosdeloimposible = {llave: "diosdeloimposible" , nombre: "Dios de lo imposible", artista: "Marco Barrientos" , bpm: "140" , categoria: "slow" , enlace:"https://www.youtube.com/embed/mLH0Q8_a2JA" ,contenido:`<pre>
 <b>Dios de lo imposible
 Marco Barrientos – bpm: 140</b>
 

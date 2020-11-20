@@ -1,4 +1,4 @@
-var pormimurio = {llave: "pormimurio", nombre: "Por mi murió", artista: "Hillsong" , bpm: "153", categoria:"low" , contenido:` <pre>
+var pormimurio = {llave: "pormimurio", nombre: "Por mi murió", artista: "Hillsong" , enlace:"https://www.youtube.com/embed/146aneRHW40", bpm: "153", categoria:"low" , contenido:` <pre>
 <b>Por mi murió 
 Hillsong – bpm: 153</b>
 

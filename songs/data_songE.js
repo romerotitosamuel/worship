@@ -27,7 +27,7 @@ Eres fiel, siempre fiel
 Siempre fiel, eres fiel
 <pre>`};
 
-var eleselrey = {llave: "eleselrey", nombre: "Él es el rey", artista: "Danilo Montero" , bpm: "134", categoria:"fast" , contenido:` <pre >
+var eleselrey = {llave: "eleselrey", nombre: "Él es el rey", artista: "Danilo Montero" , enlace:"https://www.youtube.com/embed/3I0ovvz_l2Y", bpm: "134", categoria:"fast" , contenido:` <pre >
 <b>Él es el Rey
 Danilo Montero - bpm: 134</b>
 <a>Intro:</a> <a>Em</a> <a>C</a> <a>G</a> <a>D</a>
