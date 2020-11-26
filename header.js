@@ -7,6 +7,7 @@ var encabezado = `<header class="sticky-top my-0">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="FirstNavBar">
 <ul class="navbar-nav ml-auto">
 <li class="nav-item"><a  class="nav-link" href="index.html"><i class="fa fa-file-text"></i> Alabanzas</a></li>
+<li class="nav-item"><a  class="nav-link" href="datos.html"><i class="fa fa-database"></i> Canciones</a></li>
 </ul></div></nav><hr class="my-0"></header>`
 
 

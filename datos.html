@@ -27,10 +27,10 @@
   <div class="float-md-left mx-auto mt-2" style="max-width: 300px ; min-width: 29%" class="print"> <!--Botones izquierda-->
     <!--Botones de canciones - Inicio-->
     
-    <button type="button" class="btn btn-light btn-sm btn-block btn-outline-primary"><a href="https://music.youtube.com/playlist?list=PL_FgA7_oWUXKWcagYkqu2DW9z7IC-BiOu" target="_blank"><i class="fa fa-youtube-play"></i> PlayList - Youtube Music</a></button>
     
-    <div id="espaciolista" style = "margin-top: 7px"></div> <!--Espacio donde se inserta la lista de canciones-->
-
+    <div id="list">
+      <div id="espaciolista2" style = "margin-top: 7px"></div> <!--Espacio donde se inserta la lista de canciones-->
+    </div>
   </div><!--Botones de canciones - Fin-->
 
   <div class="float-md-right d-lg-inline mx-auto" style="max-width: 700px;min-width: 70% ;text-align: left"><!--Contenido de la derecha en pantalla grande-->
@@ -61,8 +61,10 @@
           <button class="btn btn-info btn-sm mt-2 float-right mr-2" type="button" onclick="window.print();"><i class="fa fa-print"></i></button>
           
           <!--Botones de Acordes y lectura- Fin-->
-               
+
+    
     </div>
+    
       <div class="mx-3 mt-3" > <!--Contenido de cancion-->
         <div id="vid"></div>
         <div id="song"></div> 
@@ -93,7 +95,7 @@
     <!--BS4 SCRIPTS-->
    
     <script src="data_songs.js"></script>
-    <script src="lista1.js"></script>
+    <script src="lista2.js"></script>
     <script src="data_functions.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
