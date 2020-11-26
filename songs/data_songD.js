@@ -63,8 +63,85 @@ Tuya es toda la gloria
 Tuyo es todo el honor
 
 <a>Solo:</a> <a>Dm</a> <a>Am</a> <a>F</a> <a>G</a>
+</pre>
+`}
+var desdemiinterior = {llave: "desdemiinterior" , nombre: "Desde mi interior", artista: "Hillsong" , bpm: "138" , categoria: "slow" , enlace:"https://www.youtube.com/embed/DGgrObVS4a0" ,contenido:`<pre>
+<b>Desde mi interior
+Hillsong - bpm: 138</b>
+<a>Intro:</a> <a>F</a> <a>C</a> <a>G</a>
+          <a>F</a>             <a>C</a>          <a>G</a>
+Mil veces te falle, Mas tu fuiste fiel
+          <a>F</a>               <a>C</a>         <a>G</a>
+Tu gracia me levanto, Me basta tu amor
 
+      <a>Am</a>       <a>F</a>               <a>C</a>    <a>G</a>
+Dios eterno tu luz por siempre brillará
+      <a>Am</a>       <a>F</a>          <a>C</a>     <a>G</a>
+Y tu gloria incomparable sin final.
 
+          <a>F</a>           <a>C</a>     <a>G</a>
+Señor tu voluntad permanecera,
+           <a>F</a>               <a>C</a>    <a>G</a>
+En ti me quiero perder en adoración
 
+<a>F</a>          <a>C</a>                <a>Am</a>
+De mi Corazón te doy el control
+              <a>G</a>                 
+Consume todo mi interior, Dios
+<a>F</a>              <a>Am</a>                <a>G</a>
+Tu justicia y amor me abrazan Señor
+              <a>Dm</a>
+Te amo desde mi interior
+
+      <a>Am</a>        <a>F</a>                <a>C</a>    <a>G</a>
+Dios eterno tu luz por siempre brillara
+      <a>Am</a>       <a>F</a>          <a>C</a>     <a>G</a>
+Y tu gloria incomparable sin final
+      <a>C</a>      <a>F</a>         <a>G</a>      <a>Am</a>
+El clamor mi ser es contigo estar
+      <a>F</a>       <a>G</a>             <a>F</a>  <a>G</a>
+Desde mi interior mi alma clamará
+
+<a>Solo:</a> <a>F</a> <a>C</a> <a>Am</a> <a>G</a>  <a>F</a> <a>Am</a> <a>G</a> <a>Dm</a>
+</pre>
+`}
+
+var diosincomparable = {llave: "diosincomparable" , nombre: "Dios incomparable", artista: "Generación 12" , bpm: "78" , categoria: "slow" , enlace:"https://www.youtube.com/embed/_rccpp_BE9A" ,contenido:`<pre>
+<b>Dios incomparable
+Generación 12 - bpm:78</b>
+<a>Intro:</a> <a>B</a> <a>F#</a> <a>G#m</a> <a>E</a>
+<a>B</a>           <a>F#</a>
+Dios de mi corazón
+<a>G#</a>                 <a>E</a>
+en ti encontré mi salvación
+<a>B</a>            <a>F#</a>
+tu gloria y majestad
+<a>G#</a>              <a>E</a>
+quiero siempre contemplar
+
+<a>B</a>            <a>F#</a>
+Tu eres mi adoración
+<a>G#m</a>    <a>E</a>          
+y mi eterna canción
+<a>B</a>     <a>F#</a>  
+todo mi interior
+<a>G#</a>            <a>E</a>
+es cautivado por tu amor
+
+<a>B</a>           <a>F#</a>
+Eres Dios eterno
+              <a>G#m</a>
+solo Tú eres bueno
+             <a>E</a>           <a>B</a>
+Dios incomparable, eres Tú
+
+               <a>F#</a>
+Nunca me separaré
+             <a>G#m</a>
+de tu gran amor
+           <a>E</a>
+eres mi Señor
+         <a>B</a>
+mi Salvador
 </pre>
 `}

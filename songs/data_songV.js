@@ -28,7 +28,7 @@ Vivimos hoy
 
 <a>Solo:</a> <a>D</a>  <a>C</a>  <a>G</a>
 <pre>`};
-var vieneya = {llave: "vieneya", nombre: "Viene ya", artista: "Miel San Marcos" , bpm: "150", categoria:"fast" , contenido:` <pre>
+var vieneya = {llave: "vieneya", nombre: "Viene ya", artista: "Miel San Marcos" , enlace: "https://www.youtube.com/embed/y-7FYcf7VGY" , bpm: "150", categoria:"fast" , contenido:` <pre>
 <b>Viene ya
 Miel San Marcos - bpm: 150</b>
 <a>Intro:</a> <a>Am</a> <a>F</a> <a>C</a> <a>G</a>

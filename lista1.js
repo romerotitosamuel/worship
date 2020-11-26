@@ -1,4 +1,4 @@
-lista= [diosdeloimposible, increible, pormimurio, eleselrey];
+lista= [vieneya, desdemiinterior, nohaylugarmasalto, diosincomparable];
 
 listaprint= null;
 listaunida= null;
