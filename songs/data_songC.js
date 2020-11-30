@@ -42,7 +42,7 @@ Aunque triste en la noche yo esté
 Gozo viene en la mañana
 <pre>`};
 
-var comodijiste = {llave: "comodijiste", nombre: "Como dijiste", artista: "Christine dClario" , bpm: "147", categoria:"low", contenido:` <pre>
+var comodijiste = {llave: "comodijiste", nombre: "Como dijiste", artista: "Christine dClario" , enlace:"https://www.youtube.com/embed/b39WXyRjgEI" , bpm: "147", categoria:"low", contenido:` <pre>
 <b>Como dijiste
 Christine dClario - bpm: 147</b>
 <a>Dm</a>          <a>C</a><a>/</a><a>E</a>          <a>F</a> 

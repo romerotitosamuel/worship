@@ -1,5 +1,5 @@
 
-var degloriaengloriabarrientos = {llave: "degloriaengloriabarrientos", nombre: "De gloria en gloria", artista: "Marco Barrientos" , bpm: "128", categoria:"fast" , contenido:` <pre >
+var degloriaengloriabarrientos = {llave: "degloriaengloriabarrientos", nombre: "De gloria en gloria", artista: "Marco Barrientos" , enlace:"https://www.youtube.com/embed/I50l_0ODoB4", bpm: "128", categoria:"fast" , contenido:` <pre >
 <b>De gloria en gloria
 Marco Barrientos - bpm: 128</b>
 <a>Intro:</a> <a>Eb</a> <a>F</a> <a>Gm</a> <a>Dm</a>    <a>Eb</a>  <a>F</a>  <a>Gm</a>  <a>Bb</a>     

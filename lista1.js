@@ -1,4 +1,4 @@
-lista= [vieneya, desdemiinterior, nohaylugarmasalto, diosincomparable];
+lista= [degloriaengloriabarrientos, vamosacantar, tuguiasmidestino, comodijiste];
 
 listaprint= null;
 listaunida= null;

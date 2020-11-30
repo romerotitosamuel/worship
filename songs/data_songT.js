@@ -1,4 +1,4 @@
-var tuguiasmidestino = {llave: "tuguiasmidestino", nombre: "Tu guías mi destino", artista: "Josue del Cid" , bpm: "76", categoria:"low" , contenido:` <pre>
+var tuguiasmidestino = {llave: "tuguiasmidestino", nombre: "Tu guías mi destino", artista: "Josue del Cid" , enlace:"https://www.youtube.com/embed/4-Y1QlXaCaQ" , bpm: "76", categoria:"low" , contenido:` <pre>
 <b>Tu guías mi destino
 Josue del Cid - bpm: 76</b>
 <a>Intro:</a> <a>C</a> <a>Am</a> <a>G</a> <a>F</a>

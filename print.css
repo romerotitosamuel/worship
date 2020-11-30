@@ -10,6 +10,11 @@ button, input, header, h6, hr, li {
     display: none;
 }
 
+#vid {
+
+    display: none;
+}
+
 a {
 
 font-size: 80%;
