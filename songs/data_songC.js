@@ -56,11 +56,11 @@ que provoquen que me quieras
             <a>E</a><a>/</a><a>G#</a>     <a>C</a> 
 mas de lo que me amas
 
-      <a>Eb</a>           <a>C</a> 
+      <a>Bb</a>           <a>C</a> 
 Ven Señor, como dijiste
             <a>Dm</a>                   <a>Am</a>
 Derrama tu Gloria, derrama tu Gloria.
-      <a>Eb</a>           <a>C</a> 
+      <a>Bb</a>           <a>C</a> 
 Ven Señor, como dijiste
              <a>Dm</a>                 <a>F</a>
 Derrama tu Gloria, derrama tu Gloria
@@ -74,11 +74,11 @@ Encuentra mi escondite, alcanzame si huyo
             <a>E</a><a>/</a><a>G#</a>           <a>C</a> 
 Oh Señor inundame con tu amor
 
-    <a>Eb</a>              <a>C</a> 
+    <a>Bb</a>              <a>C</a> 
 Me amas como padre, como un hermano,
 <a>Dm</a>             <a>Am</a>
 como un leon feroz, como nadie
-      <a>Eb</a>              <a>C</a> 
+      <a>Bb</a>              <a>C</a> 
 Con fuerza me buscas, para abrazarme,
        <a>Dm</a>             <a>F</a>
 Me envuelves en tu amor
