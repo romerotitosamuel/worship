@@ -67,3 +67,8 @@ El es el Rey
          <a>D</a>                    <a>Em</a>
 que viene a Su pueblo a llevar
 <pre>`};
+var elvolvera = {llave: "elvolvera", nombre: "Él volverá", artista: "Marcos Witt" , enlace:"https://www.youtube.com/embed/deoYiiz_S0I", bpm: "124", categoria:"fast" , contenido:` <pre >
+
+
+
+<pre>`};
