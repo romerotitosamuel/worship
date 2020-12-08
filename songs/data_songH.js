@@ -36,3 +36,26 @@ Hosanna, Jesucristo, Jesucristo es Rey
 <a>G</a>      <a>A</a>       <a>G</a>           <a>A</a> <a>Bm</a> <a>C#m</a>
 Hosanna hosanna hosanna al rey
 <pre>`};
+
+var hedecididoseguiracristo = {llave: "hedecididoseguiracristo", nombre: "He decidido seguir a Cristo", artista: "Marcos Witt" , bpm: "91", enlace: "https://www.youtube.com/embed/aj4LaLh6BEg", categoria:"slow" , contenido:` <pre >
+<b>He decidido seguir a Cristo
+Marcos Witt - bpm: 91</b>
+        <a>C</a>    
+He decidido seguir a Cristo
+        <a>F</a>              <a>C</a>
+He decidido seguir a Cristo
+                      <a>Am</a>
+He decidido seguir a Cristo
+             <a>G</a>        <a>F</a> <a>G</a>     <a>C</a>
+No vuelvo atrás, no vuelvo atrás
+
+La cruz delante, el mundo atrás
+La cruz delante, el mundo atrás
+La cruz delante, el mundo atrás
+No vuelvo atrás, no vuelvo atrás
+
+El Rey de Reyes me a transformado
+El Rey de Reyes me a transformado
+El Rey de Reyes me a transformado
+No vuelvo atrás, no vuelvo atrás
+<pre>`};

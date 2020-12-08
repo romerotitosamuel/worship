@@ -96,7 +96,7 @@ nadie como tú, bendito Dios
 <a>G</a>            <a>A</a>      <a>D</a>
 gran de es tu fidelidad
 <pre>`};
-var tuamorpormi = {llave: "tuamorpormi", nombre: "Tu amor por mi", artista: "Marcos Witt" , bpm: "109", categoria:"low" , contenido:` <pre>
+var tuamorpormi = {llave: "tuamorpormi", nombre: "Tu amor por mi", artista: "Marcos Witt" , bpm: "109", enlace: "https://www.youtube.com/embed/T4Zz60lMzNU", categoria:"low" , contenido:` <pre>
 <b>Tu amor por mi
 Marcos Witt - bpm: 109</b>
 <a>D</a>           <a>A</a>            <a>Bm</a>         <a>A</a>

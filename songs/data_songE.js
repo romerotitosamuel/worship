@@ -68,7 +68,59 @@ El es el Rey
 que viene a Su pueblo a llevar
 <pre>`};
 var elvolvera = {llave: "elvolvera", nombre: "Él volverá", artista: "Marcos Witt" , enlace:"https://www.youtube.com/embed/deoYiiz_S0I", bpm: "124", categoria:"fast" , contenido:` <pre >
+<b>El volverá
+Marcos Witt - bpm: 124</b>
+<a>Intro:</a> <a>D</a> <a>Bm</a> <a>A</a>    <a>D</a> <a>Em</a> <a>G</a>
+            <a>D</a>    <a>D</a><a>/</a><a>F#</a>
+Como el relámpago
+      <a>Em</a>      <a>G</a>      <a>D</a> <a>D</a>/<a>F#</a>
+que sale en el oriente
+    <a>Em</a>   <a>G</a>   <a>Bm</a>-<a>D</a>        <a>A</a>  <a>E</a><a>-</a><a>F#</a><a>-</a><a>G</a> 
+y va al occidente así será
+                      <a>D</a><a>-</a><a>Bm</a><a>-</a><a>A</a> 
+cuando vuelva El Señor
 
+            <a>D</a>  <a>D</a><a>/</a><a>F#</a>   
+Como un ladrón
+      <a>Em</a>  <a>G</a>       <a>D</a> <a>D</a><a>/</a><a>F#</a>
+que viene en la noche
+    <a>Em</a>   <a>G</a>   <a>Bm</a><a>-</a><a>D</a>          <a>A</a>  <a>E</a> <a>F#</a> <a>G</a>
+y nadie lo espera, así será
+                <a>D</a><a>-</a><a>Bm</a>-<a>A</a> 
+cuando vuelva Jesús
 
+          <a>D</a> <a>G</a> <a>A</a>     <a>Bm</a>                  <a>G</a>
+Él volverá y a su gloria me transformará
+        <a>D</a> <a>G</a> <a>A</a>       <a>Bm</a>              <a>G</a>
+Regresará y en una nube me arrebatará
+        <a>Em</a>          <a>D</a><a>/</a><a>F#</a>
+Con poder y gran gloria
+  <a>G</a>       <a>A</a>        <a>Intro</a>
+Cristo Jesús volverá
 
+              <a>D</a><a>-</a><a>D</a><a>/</a><a>F#</a>
+Con voz de mando
+      <a>Em</a>          <a>D</a><a>-</a><a>D</a><a>/</a><a>F#</a>
+descenderGá del cielo
+    <a>Em</a>  <a>G</a>      <a>Bm</a><a>-</a><a>D</a>        <a>A</a>  <a>E</a> <a>F#</a> <a>G</a>
+y tocará trompeta, así será
+                    <a>D</a><a>-</a><a>Bm</a><a>-</a><a>A</a>
+cuando vuelva El Señor
+
+          <a>D</a> <a>D</a><a>/</a><a>F#</a>
+El llamará
+    <a>Em</a>      <a>G</a>      <a>D</a> <a>D</a><a>/</a><a>F#</a>
+a los que han dormido
+      <a>Em</a>        <a>G</a>    <a>Bm</a><a>-</a><a>D</a>         <a>A</a>  <a>E</a> <a>F#</a> <a>G</a>
+Y a los que hemos creído, así será
+                  <a>D</a><a>-</a><a>Bm</a><a>-</a><a>A</a>
+cuando Vuelva Jesús
+
+<a>Solo:</a> <a>Bm</a> <a>A</a> <a>Bm</a>    <a>G</a> <a>A</a>
+<a>Em</a>        <a>D</a><a>/</a><a>F#</a>    <a>G</a>         <a>D</a><a>/</a><a>F#</a>
+Velad y orad, el tiempo se acerca ya
+    <a>Em</a>                <a>D</a><a>/</a><a>F#</a>
+Purifícate en Él, conságrate a El
+  <a>G</a>       <a>A</a>         <a>G</a> <a>A</a>
+que tu Señor, volverá
 <pre>`};
