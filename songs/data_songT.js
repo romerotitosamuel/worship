@@ -101,16 +101,16 @@ var tuamorpormi = {llave: "tuamorpormi", nombre: "Tu amor por mi", artista: "Mar
 Marcos Witt - bpm: 109</b>
 <a>D</a>           <a>A</a>            <a>Bm</a>         <a>A</a>
 Tu amor por mi, es más dulce que la miel.
-         <a>G</a>         <a>D</a>        <a>Em</a>    <a>A</a>
+        <a>G</a>         <a>D</a>        <a>Em</a>    <a>A</a>
 Y tu misericordia es nueva cada día.
 
-        <a>G</a>          <a>D</a>              <a>A</a>          <a>G</a>
+        <a>G</a>          <a>D</a>              <a>C</a>          <a>G</a>
 Es por eso que te alabo, es por eso que te sirvo
-        <a>A</a>          <a>Em</a>           <a>A</a>
+        <a>D</a>          <a>Em</a>           <a>A</a>     <a>G</a> <a>A</a>
 Es por eso que te doy todo mi amor.
 
-        <a>G</a>          <a>D</a>              <a>A</a>          <a>G</a>
+        <a>G</a>          <a>D</a>              <a>C</a>          <a>G</a>
 Es por eso que te alabo, es por eso que te sirvo
-        <a>A</a>                        <a>D</a>
+        <a>D</a>           <a>A</a>            <a>G</a>    <a>A</a>
 Es por eso que te doy todo mi amor.
 <pre>`};
