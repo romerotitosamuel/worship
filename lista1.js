@@ -1,4 +1,4 @@
-lista= [elvolvera, lacasadedios, tuamorpormi, hedecididoseguiracristo];
+lista= [alabanzayhonor, quiennosseparara , eresfiel , gloriaenloalto];
 
 listaprint= null;
 listaunida= null;

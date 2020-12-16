@@ -1,4 +1,4 @@
-var gloriaenloalto = {llave: "gloriaenloalto", nombre: "Gloria en lo alto", artista: "Christine dClario" , bpm: "129", categoria:"low" , contenido:` <pre >
+var gloriaenloalto = {llave: "gloriaenloalto", nombre: "Gloria en lo alto", artista: "Christine dClario" , enlace: "https://www.youtube.com/embed/kSr02Wask2Y" ,  bpm: "129", categoria:"low" , contenido:` <pre >
 <b>Gloria en lo alto
 Christine dClario - bpm: 100</b>
 <a>Intro:</a> <a>C</a> <a>Em</a> <a>F</a>
