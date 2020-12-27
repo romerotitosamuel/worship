@@ -1,4 +1,4 @@
-lista= [alabanzayhonor, quiennosseparara , eresfiel , gloriaenloalto];
+lista= [tempranoyotebuscare, soberano];
 
 listaprint= null;
 listaunida= null;
