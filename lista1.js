@@ -1,4 +1,4 @@
-lista= [tempranoyotebuscare, soberano];
+lista= [teamojesus, alqueestasentadoeneltrono];
 
 listaprint= null;
 listaunida= null;
