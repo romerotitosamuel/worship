@@ -1,4 +1,4 @@
-lista= [teamojesus, alqueestasentadoeneltrono];
+lista= [ohven, cambiaremitristeza];
 
 listaprint= null;
 listaunida= null;
