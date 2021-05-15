@@ -1,6 +1,6 @@
-var cambiaremitristeza = {llave: "cambiaremitristeza", nombre: "Cambiare mi tristeza", artista: "Vertical" , bpm: "", categoria:"low", contenido:` <pre>
-<b>Cambiaré mi risteza
-Vertical - bpm:</b>
+var cambiaremitristeza = {llave: "cambiaremitristeza", nombre: "Cambiare mi tristeza", artista: "Vertical" , bpm: "120", enlace:"https://www.youtube.com/embed/j4ixIahbu7Q", categoria:"low", contenido:` <pre>
+<b>Cambiaré mi tristeza
+Vertical - bpm: 120</b>
 <a>Intro:</a> <a>A</a> <a>D</a> <a>F#m</a> <a>E</a>
 <a>A</a>        <a>D</a>      <a>F#m</a> <a>E</a>
 Cambiaré mi tristeza

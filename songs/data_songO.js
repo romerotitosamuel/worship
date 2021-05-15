@@ -1,4 +1,4 @@
-var ohven = {llave: "ohven", nombre: "Oh ven", artista: "Marcos WItt" , bpm: "0", categoria: "fast" , contenido:` <pre>
+var ohven = {llave: "ohven", nombre: "Oh ven", artista: "Marcos WItt" , bpm: "0", enlace:"https://www.youtube.com/embed/bjcdyxsA1jI", categoria: "fast" , contenido:` <pre>
 <b>Oh ven
 Marcos Witt - bpm:</b>
 <a>Intro:</a> <a>C</a> <a>F</a> <a>C</a> <a>G</a> <a>C</a>

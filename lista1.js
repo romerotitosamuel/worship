@@ -1,4 +1,4 @@
-lista= [ohven, cambiaremitristeza];
+lista= [quierocantarunalindacancion, ohven, abremisojos, cambiaremitristeza];
 
 listaprint= null;
 listaunida= null;

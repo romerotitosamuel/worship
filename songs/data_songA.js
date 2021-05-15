@@ -1,3 +1,35 @@
+var abremisojos = {llave: "abremisojos", nombre: "Abre mis ojos", artista: "Danilo Montero" ,  enlace: "https://www.youtube.com/embed/ouUhhEVH2PI",bpm: "128", categoria:"fast", contenido:` <pre >
+<b>Abre mis ojos
+Danilo Montero - bpm:128</b>
+<a>E</a>
+Abre mis ojos oh Cristo
+<a>B</a>
+Abre mis ojos Te pido
+           <a>A</a>
+Yo quiero verte
+           <a>E</a>
+Yo quiero verte
+
+         <a>B</a>           <a>C#m</a>
+Y contemplar Tu Majestad
+<a>A</a>                       <a>B</a>
+Y el resplandor de Tu Gloria
+    <a>B</a>               <a>C#m</a>
+Derrama Tu amor y poder
+            <a>A</a>
+Cuando cantamos:
+<a>B</a>           <a>B</a>
+Santo, Santo
+
+<a>E</a>
+Santo, Santo, Santo
+<a>B</a>
+Santo, Santo, Santo
+<a>A</a>
+Santo, Santo, Santo
+<pre>`};
+
+
 var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Te daré alabaza y honor", artista: "Marcos Witt" ,  enlace: "https://www.youtube.com/embed/mhsBz6DTZTc",bpm: "150", categoria:"fast", contenido:` <pre >
 <b>Te daré alabanza y honor
 Marcos Witt - bpm:101</b>
