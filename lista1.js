@@ -1,4 +1,4 @@
-lista= [quierocantarunalindacancion, ohven, abremisojos, cambiaremitristeza];
+lista= [tempranoyotebuscare, tuguiasmidestino];
 
 listaprint= null;
 listaunida= null;
