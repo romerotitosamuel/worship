@@ -29,6 +29,42 @@ Santo, Santo, Santo
 Santo, Santo, Santo
 <pre>`};
 
+var alrey = {llave: "alrey", nombre: "Al Rey", artista: "Marcos Witt" ,  enlace: "https://www.youtube.com/embed/x84PR1RtJ4s",bpm: "118", categoria:"fast", contenido:` <pre >
+<b>Al Rey
+Marcos Witt - bpm:118</b>
+<a>Intro:</a> <a>Gm</a> <a>F</a> <a>Eb</a> <a>D</a>
+    <a>Gm</a>     <a>F</a>        <a>Eb</a>     <a>D</a>
+Al Rey Hossana, al Rey aleluya
+
+                      <a>Gm</a>   <a>F</a>
+Me ha enseñado su grandeza
+                    <a>Bb</a>  <a>D</a>
+Me ha mostrado su belleza
+                    <a>Gm</a>
+Me vistió de su realeza
+    <a>F</a>         <a>Eb</a> <a>C</a>       <a>D</a>
+De su salvación yo cantaré
+
+                    <a>Gm</a>  <a>F</a>
+Ha cambiado mi tristeza
+               <a>Bb</a>  <a>D</a>
+Ha ungido mi cabeza
+                   <a>Gm</a>
+Me cubrió de su belleza
+    <a>F</a>       <a>Eb</a>   <a>C</a>       <a>D</a>
+De su redención yo cantaré
+
+
+         <a>Cm</a>           <a>Gm</a>
+Yo me asombro me maravillo
+      <a>D</a>                 <a>Gm</a> <a>(</a> <a>A</a> <a>B</a> <a>)</a>
+Y derramo mi canto en honor a Él
+    <a>Cm</a>               <a>Gm</a>
+No hay nadie mas glorioso
+         <a>A</a>           <a>D</a>
+Tan hermoso como mi Rey
+<pre>`};
+
 
 var alabanzayhonor = {llave: "alabanzayhonor", nombre: "Te daré alabaza y honor", artista: "Marcos Witt" ,  enlace: "https://www.youtube.com/embed/mhsBz6DTZTc",bpm: "150", categoria:"fast", contenido:` <pre >
 <b>Te daré alabanza y honor

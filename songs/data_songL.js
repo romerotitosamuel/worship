@@ -46,3 +46,26 @@ Anhela de su compañía
   <a>D</a>        <a>A</a>       <a>G</a>
 Anhela de su compañía
 </pre>`};
+
+var libresoy = {llave: "libresoy", nombre: "Libre soy", artista: "David Scarpeta" , enlace: "https://www.youtube.com/embed/Koz_iMvlGzM" , bpm: "133", categoria:"fast" , contenido:` <pre>
+<b>Libre soy
+David Scarpeta - bpm: 133</b>
+<a>Intro:</a> <a>D</a> <a>G</a>
+<a>D</a>
+Por ti los ciegos ven los mudos cantaran
+<a>G</a>
+En ti la vida está por ti puedo cantar
+<a>Bm</a>
+La oscuridad se va
+<a>A</a>                           <a>D</a>   <a>G</a> <a>D</a> <a>G</a>
+Por ti puedo gritar libre soy
+
+       <a>D</a>
+Libre para correr (libre para correr)
+       <a>G</a>
+Libre para danzar (libre para danzar)
+        <a>Bm</a>                       <a>A</a>
+Libre para vivir en ti (libre para vivir en ti)
+        <a>D</a> <a>G</a> <a>D</a> <a>G</a>
+Libre soy
+</pre>`};

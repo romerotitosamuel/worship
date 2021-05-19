@@ -1,4 +1,4 @@
-lista= [tempranoyotebuscare, tuguiasmidestino];
+lista= [alrey, tempranoyotebuscare, libresoy, tuguiasmidestino];
 
 listaprint= null;
 listaunida= null;
