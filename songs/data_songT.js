@@ -31,7 +31,7 @@ Solo Tú.
 <a>Final:</a> <a>C</a> <a>Am</a> <a>C</a>
 <pre>`};
 
-var tempranoyotebuscare = {llave: "tempranoyotebuscare", nombre: "Temprano yo te buscaré", artista: "Marcos Witt" , bpm: "123", categoria:"low" , contenido:` <pre>
+var tempranoyotebuscare = {llave: "tempranoyotebuscare", nombre: "Temprano yo te buscaré", artista: "Marcos Witt" , bpm: "123", enlace: "https://www.youtube.com/embed/72u0mQnYHhs",categoria:"low" , contenido:` <pre>
 <b>Temprano yo te buscaré
 Marcos Witt - bpm: 123</b> 
 <a>Intro:</a> <a>G</a> <a>C</a>
