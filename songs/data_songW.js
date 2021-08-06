@@ -1,4 +1,4 @@
-var waymaker = {llave: "waymaker", nombre: "Way maker", artista: "Priscilla Bueno" , bpm: "65", categoria:"low" , contenido:` <pre>
+var waymaker = {llave: "waymaker", nombre: "Way maker", artista: "Priscilla Bueno" , bpm: "65", categoria:"low" ,enlace:"https://www.youtube.com/embed/KW-WaP0tHr0", contenido:` <pre>
 <b>Way maker
 Priscilla Bueno - bpm: 65</b>
 <a>Intro/Solo:</a> <a>D</a> <a>A</a> <a>E</a> <a>F#m</a>
