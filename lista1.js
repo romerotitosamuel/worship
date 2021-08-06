@@ -1,4 +1,4 @@
-lista= [alrey, tempranoyotebuscare, libresoy, tuguiasmidestino];
+lista= [degloriaengloriabarrientos, waymaker];
 
 listaprint= null;
 listaunida= null;
