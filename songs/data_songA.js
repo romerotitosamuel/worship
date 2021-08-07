@@ -137,6 +137,59 @@ sea la gloria, sea la honra y el poder
             <a>C</a>          <a>D</a>
 sea la gloria, sea la honra y el poder
 <pre>`};
+var amorcomofuego = {llave: "amorcomofuego", nombre: "Amor como fuego", artista: "Hillsong" ,enlace: "https://www.youtube.com/embed/FwGftfqZ1NQ", bpm: "81", categoria:"slow", contenido:` <pre >
+<b>Amor como fuego
+Hillsong - bpm: 81</b>
+<a>Intro:</a> <a>E</a> <a>C#m</a> <a>B</a> <a>A</a> <a>E</a>
+  <a>E</a>
+Anhelo un toque de Tu amor
+             <a>C#m</a>
+Sólo un destello de Tu gloria en mí Señor
+            <a>B</a>
+En un momento todo puedes transformar
+<a>A</a>              <a>E</a>
+Mi vida has cambiado Dios
+
+  <a>E</a>
+Y no alcanzo a comprender
+              <a>C#m</a>
+Tu amor sostiene por coMpleto hoy mi ser
+             <a>B</a>
+Tu gracia y sangre que mi vida transformó
+<a>A</a>            <a>E</a>
+Borraste mi pasado Dios
+
+       <a>C#m</a>        <a>A</a>             <a>E</a>      <a>B</a>
+Tu amor es como fuego, que arde en mi interior
+ <a>C#m</a>      <a>A</a>         <a>E</a>
+Mi único anhelo, rendirte adoración
+<a>B</a>        <a>E</a>
+Con Tu fuego lléname
+
+  <a>E</a>
+Que Tu amor me atraiga
+  <a>B</a>
+Al lugar donde Tú estás
+<a>C#m</a>       <a>A</a>        <a>E</a>
+Quiero más de Ti Señor
+
+  <a>E</a>
+En la cruz hoy me rindo
+  <a>B</a>
+Seguiré Tu llamado Dios
+<a>C#</a>        <a>A</a>        <a>E</a>
+Cristo pertenezco a Ti
+
+ <a>E</a>
+Me rindo ante Ti Jesús
+                  <a>C#m</a>
+Me entrego humilde ante el mensaje de la cruz
+        <a>B</a>
+Y me abandono en Tu presencia y amor
+<a>A</a>            <a>E</a>
+Jamás seré igual oh Dios
+<pre>`};
+
 var asiestuamor = {llave: "asiestuamor", nombre: "Así es tu amor", artista: "En tu Presencia" , bpm: "105", categoria:"fast", contenido:` <pre >
 Así es tu amor
 En tu Presencia - bpm: 105

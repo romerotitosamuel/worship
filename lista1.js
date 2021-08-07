@@ -1,4 +1,4 @@
-lista= [degloriaengloriabarrientos, waymaker];
+lista= [degloriaengloriabarrientos, misanador, waymaker, amorcomofuego];
 
 listaprint= null;
 listaunida= null;

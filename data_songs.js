@@ -7,6 +7,7 @@ document.write(`
 <script src="./songs/data_songH.js"></script>
 <script src="./songs/data_songI.js"></script>
 <script src="./songs/data_songL.js"></script>
+<script src="./songs/data_songM.js"></script>
 <script src="./songs/data_songN.js"></script>
 <script src="./songs/data_songO.js"></script>
 <script src="./songs/data_songP.js"></script>
