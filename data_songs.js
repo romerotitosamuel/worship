@@ -1,5 +1,6 @@
 document.write(` 
 <script src="./songs/data_songA.js"></script>
+<script src="./songs/data_songB.js"></script>
 <script src="./songs/data_songC.js"></script>
 <script src="./songs/data_songD.js"></script>
 <script src="./songs/data_songE.js"></script>
