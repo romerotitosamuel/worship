@@ -49,7 +49,7 @@ Solo Tú eres digno
 Solo Tú eres Dios
 <pre>`};
 
-var glorioso = {llave: "glorioso", nombre: "Glorioso", artista: "BJ Putnam" , bpm: "148", categoria:"fast" , contenido:` <pre >
+var glorioso = {llave: "glorioso", nombre: "Glorioso", artista: "BJ Putnam" , enlace: "https://www.youtube.com/embed/fVdXt8hX8es", bpm: "148", categoria:"fast" , contenido:` <pre >
 <b>Glorioso
 BJ Putnam - bpm: 148</b>
 <a>B</a>    <a>F#</a> <a>G#m</a> <a>E</a>

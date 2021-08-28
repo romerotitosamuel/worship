@@ -75,7 +75,7 @@ Te amo Jesús, me cambiaste tu a mi
 Veo el antes y ahora y soy feliz
 <pre>`};
 
-var tufidelidad = {llave: "tufidelidad", nombre: "Tu fidelidad", artista: "Marcos Witt" , bpm: "106", categoria:"low" , contenido:` <pre>
+var tufidelidad = {llave: "tufidelidad", nombre: "Tu fidelidad", artista: "Marcos Witt" , enlace: "https://www.youtube.com/embed/nqLW9uO9wd0" ,bpm: "106", categoria:"low" , contenido:` <pre>
 <b>Tu fidelidad
 Marcos Witt - bpm: 106</b>
 <a>C</a>       <a>Am</a>       <a>Dm</a>
