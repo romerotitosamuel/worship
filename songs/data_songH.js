@@ -37,7 +37,7 @@ Hosanna, Jesucristo, Jesucristo es Rey
 Hosanna hosanna hosanna al rey
 <pre>`};
 
-var hedecididoseguiracristo = {llave: "hedecididoseguiracristo", nombre: "He decidido seguir a Cristo", artista: "Marcos Witt" , bpm: "91", enlace: "https://www.youtube.com/embed/aj4LaLh6BEg", categoria:"slow" , contenido:` <pre >
+var hedecididoseguiracristo = {llave: "hedecididoseguiracristo", nombre: "He decidido seguir a Cristo", artista: "Marcos Witt" , bpm: "91", enlace: "https://www.youtube.com/embed/kOnbdyAIdyc", categoria:"slow" , contenido:` <pre >
 <b>He decidido seguir a Cristo
 Marcos Witt - bpm: 91</b>
         <a>C</a>    

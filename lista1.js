@@ -1,4 +1,4 @@
-lista= [tufidelidad, glorioso];
+lista= [tufidelidad,hedecididoseguiracristo, glorioso];
 
 listaprint= null;
 listaunida= null;
