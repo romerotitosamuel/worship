@@ -1,4 +1,4 @@
-lista= [asiestuamor, benditojesus, quiennosseparara, amorcomofuego];
+lista= [grandeyfuertemiel, señoreresfiel];
 
 listaprint= null;
 listaunida= null;
