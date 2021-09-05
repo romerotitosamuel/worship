@@ -1,4 +1,4 @@
-lista= [grandeyfuertemiel, señoreresfiel, hermosonombre, elsenoresmipastor];
+lista= [grandeyfuertemiel, señoreresfiel, hermosonombre, elsenoresmipastor, soberano];
 
 listaprint= null;
 listaunida= null;
