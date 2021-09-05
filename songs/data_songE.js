@@ -67,6 +67,42 @@ El es el Rey
          <a>D</a>                    <a>Em</a>
 que viene a Su pueblo a llevar
 <pre>`};
+
+var elsenoresmipastor = {llave: "elsenoresmipastor", nombre: "El Señor es mi pastor", artista: "Danilo Montero" , enlace:"https://www.youtube.com/embed/SDq5aA0GCYM", bpm: "63", categoria:"slow" , contenido:` <pre >
+<b>El Señor es mi pastor
+Danilo Montero - bpm: 63</b>
+       <a>A</a>           <a>Bm</a>
+El Señor es mi pastor
+  <a>D</a>           <a>E</a>
+Nada me faltará
+
+      <a>A</a>           <a>Bm</a>
+El señor es mi pastor
+    <a>D</a>
+En pastos delicados
+         <a>B</a><a>7</a>         <a>E</a>
+Él me hará descansar
+         <a>F#m</a>
+Junto a aguas de reposo
+    <a>Bm</a>
+Me pastoreará
+    <a>E</a>          <a>A</a>
+Confortará mi alma
+        <a>F#m</a>                 <a>Bm</a>
+Me guiará por sendas de justicia
+ <a>D</a>              <a>E</a>
+Por amor de su nombre
+
+<a>A</a>           <a>Bm</a>
+El Señor es mi pastor
+  <a>D</a> <a>E</a>         <a>A</a> <a>E</a><a>/</a><a>G#</a> <a>F#m</a> <a>E</a>
+Nada me faltará
+  <a>D</a> <a>E</a>         <a>A</a> <a>E</a><a>/</a><a>G#</a> <a>F#m</a> <a>E</a>
+Nada me faltará
+  <a>D</a> <a>E</a>         <a>A</a>
+Nada me faltará
+<pre>`};
+
 var elvolvera = {llave: "elvolvera", nombre: "Él volverá", artista: "Marcos Witt" , enlace:"https://www.youtube.com/embed/deoYiiz_S0I", bpm: "124", categoria:"fast" , contenido:` <pre >
 <b>El volverá
 Marcos Witt - bpm: 124</b>
