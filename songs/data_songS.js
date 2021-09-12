@@ -1,3 +1,26 @@
+var salmo23 = {llave: "salmo23", nombre: "Salmo 23", artista: "Un corazón" , bpm: "", enlace:"https://www.youtube.com/embed/cOjANQ64Jdw", categoria:"slow" , contenido:` <pre>
+
+<b>Salmo 23
+Un corazón</b>
+
+Tengo todo, eres todo lo que necesito
+Tú me llevas al lugar donde encontré descanso
+//Renuevas mis fuerzas, tú guías mis pasos//
+
+Tu amor inagotable es
+Tu bondad me persigue, te persigo
+En tu mesa me diste un lugar
+Me recibes en casa para siempre
+
+En tus brazos cada miedo y temor se apagan
+Tú me enseñas a confiar cuando mi fe desmaya
+//Renuevas mis fuerzas, tú guías mis pasos//
+
+Aunque pase por el valle de las sombra y muerte
+Ya no temo, yo confío, Tú estás conmigo
+Y si caigo o me pierdo, vienes a buscarme
+No me olvidas y me encuentras Y nunca te rindes
+<pre>`};
 var señoreresfiel = {llave: "señoreresfiel", nombre: "Señor eres fiel", artista: "Marco Barrientos" , bpm: "129", categoria:"fast" , contenido:` <pre>
 <b>Señor eres fiel
 Marco Barrientos - bpm: 129</b>

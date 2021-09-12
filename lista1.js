@@ -1,4 +1,4 @@
-lista= [grandeyfuertemiel, señoreresfiel, hermosonombre, elsenoresmipastor, soberano];
+lista= [salmo23, misanador, desdemiinterior, erestodopoderoso, tueresdignodegloria];
 
 listaprint= null;
 listaunida= null;

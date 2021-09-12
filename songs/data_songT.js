@@ -114,3 +114,27 @@ Es por eso que te alabo, es por eso que te sirvo
         <a>D</a>           <a>A</a>            <a>G</a>    <a>A</a>
 Es por eso que te doy todo mi amor.
 <pre>`};
+var tueresdignodegloria = {llave: "tueresdignodegloria", nombre: "Tu eres digno de gloria", artista: "Guerry Márquez" , bpm: "", enlace: "https://www.youtube.com/embed/2By6Aw2emk4", categoria:"fast" , contenido:` <pre>
+<b>Tu eres digno de gloria
+Gerry Márquez</b>
+
+Hoy te alabamos señor
+Y declaramos que tú eres nuestro Dios
+Tú eres el Dios de amor
+Ya no somos esclavos del temor
+
+Hoy te adoramos señor
+Y te cantamos con nuestro corazón
+Te damos todo el honor
+Sobre el cielo y la tierra
+Tú eres señor
+
+Tú eres digno de gloria
+Sobre toda la tierra, tú eres Dios
+Tú eres digno de recibir
+Toda adoración, todo el honor sea a ti
+Yu eres digno de gloria...
+
+Eres digno, eres santo
+Eres rey, de toda creación
+<pre>`};

@@ -65,7 +65,7 @@ Tuyo es todo el honor
 <a>Solo:</a> <a>Dm</a> <a>Am</a> <a>F</a> <a>G</a>
 </pre>
 `}
-var desdemiinterior = {llave: "desdemiinterior" , nombre: "Desde mi interior", artista: "Hillsong" , bpm: "138" , categoria: "slow" , enlace:"https://www.youtube.com/embed/DGgrObVS4a0/preview" ,contenido:`<pre>
+var desdemiinterior = {llave: "desdemiinterior" , nombre: "Desde mi interior", artista: "Hillsong" , bpm: "138" , categoria: "slow" , enlace:"https://www.youtube.com/embed/DGgrObVS4a0" ,contenido:`<pre>
 <b>Desde mi interior
 Hillsong - bpm: 138</b>
 <a>Intro:</a> <a>F</a> <a>C</a> <a>G</a>

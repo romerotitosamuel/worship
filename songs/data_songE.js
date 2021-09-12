@@ -160,3 +160,24 @@ Purifícate en Él, conságrate a El
   <a>G</a>       <a>A</a>         <a>G</a> <a>A</a>
 que tu Señor, volverá
 <pre>`};
+
+
+var erestodopoderoso = {llave: "erestodopoderoso", nombre: "Eres todopoderoso", artista: "Rojo" , enlace:"https://www.youtube.com/embed/MlvF1axP2ks", bpm: "", categoria:"fast" , contenido:` <pre >
+<b>Eres todopoderoso
+Rojo</b>
+
+La única Razón de mi adoración
+Eres tú mi Jesús
+El único motivo para vivir
+Eres tú Mi Señor
+
+Mi única verdad esta en Ti
+Eres mi luz y mi salvación
+Mi único amor eres Tu Señor
+Y por siempre te alabaré
+
+Tu Eres Todo poderoso
+Eres Grande y Majestuoso
+Eres Fuerte e Invencible
+Y no hay nadie como Tú
+<pre>`};
