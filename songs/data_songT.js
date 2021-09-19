@@ -138,3 +138,20 @@ Yu eres digno de gloria...
 Eres digno, eres santo
 Eres rey, de toda creación
 <pre>`};
+var tupalabra = {llave: "tupalabra", nombre: "Tu palabra", artista: "Juan Carlos Alvarado" , bpm: "137", enlace: "https://www.youtube.com/embed/P_X9Eh0IkZk", categoria:"fast" , contenido:` <pre>
+<b>Tu palabra
+Juan Carlos Alvarado - bpm: 137</b>
+
+Cuan dulces son a mis pies tu palabra
+Mas que la miel en mi boca sedienta
+De tus mandamientos he adquirido riquezas
+Al seguir tu ley siento tu presencia
+
+Pues lumbrera es a mis pies tu palabra
+Mi guia y mi sostén en mi camino
+
+Tu siervo soy sigo tus preceptos
+Avivame dame entendimiento
+Enseñame a guardar tu palabra
+Asi siempre tu mi delicia serás.
+<pre>`};

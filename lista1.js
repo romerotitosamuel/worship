@@ -1,4 +1,4 @@
-lista= [salmo23, misanador, desdemiinterior, erestodopoderoso, tueresdignodegloria];
+lista= [tueresdignodegloria, tupalabra, pormimurio, sananuestratierra];
 
 listaprint= null;
 listaunida= null;

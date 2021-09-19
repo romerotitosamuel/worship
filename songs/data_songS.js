@@ -21,6 +21,27 @@ Ya no temo, yo confío, Tú estás conmigo
 Y si caigo o me pierdo, vienes a buscarme
 No me olvidas y me encuentras Y nunca te rindes
 <pre>`};
+var sananuestratierra = {llave: "sananuestratierra", nombre: "Sana nuestra tierra", artista: "Marcos Witt" , bpm: "60", enlace:"https://www.youtube.com/embed/lp3rpeWePUY", categoria:"slow" , contenido:` <pre>
+<b>Sana nuestra tierra
+Marccos Witt - bpm: 60</b>
+
+Vengo a Ti, guíame
+Santifícame en Ti
+Yo quiero andar en Tu verdad
+Tómame, abrázame
+Mi corazón hoy vuelve a Ti
+Solo a Ti
+
+Quiero humillarme, buscar Tu rostro
+Hoy me arrepiento delante de Ti
+Vengo a invocarte, inclina Tu oído
+Escucha y perdona mi rebelión
+
+//Sana nuestra Tierra//
+
+Escucha hoy mi oración
+A Ti levanto mi clamor
+<pre>`};
 var señoreresfiel = {llave: "señoreresfiel", nombre: "Señor eres fiel", artista: "Marco Barrientos" , bpm: "129", categoria:"fast" , contenido:` <pre>
 <b>Señor eres fiel
 Marco Barrientos - bpm: 129</b>
