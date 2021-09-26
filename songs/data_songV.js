@@ -58,3 +58,36 @@ Viene ya, mi Amado
 <a>G</a>             <a>Am</a>
 Cristo viene ya
 <pre>`};
+
+var vivesenmi = {llave: "vivesenmi", nombre: "Vives en mi", artista: "Evan Craft" , enlace: "https://www.youtube.com/embed/73AFjbSsVww" , bpm: "", categoria:"fast" , contenido:` <pre>
+<b>Vives en mi
+Evan Craft</b>
+
+Al despertar Te cantaré
+Mis ojos en Ti fijaré
+Al ritmo de Tu corazón
+Caminaré Hacia tu amor
+
+Tu fuego en mi interior Ardiendo está
+Salvaje amor Que brillará
+Esta pasión Todos verán
+Tu gloria resplandecerá
+
+Tú nunca me dejarás
+Tu amor me sostendrá
+Junto a mí estarás
+Y por siempre brillarás
+
+Tú, vives en mí
+Vives en mí
+Soy tuyo para siempre
+
+Tu fuego en mi interior Ardiendo está
+Salvaje amor Que brillará
+Esta pasión Todos verán
+Tu gloria resplandecerá
+
+Por siempre, por siempre, por siempre
+En tu amor
+Por siempre, por siempre, por siempre
+<pre>`};
