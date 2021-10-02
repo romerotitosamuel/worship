@@ -127,7 +127,7 @@ El Rey de Reyes me a transformado
 No vuelvo atrás, no vuelvo atrás
 <pre>`};
 
-var hosannabarrientos = {llave: "hosannabarrientos", nombre: "Hosanna", artista: "Marco Barrientos" , bpm: "146", categoria:"fast" , contenido:` <pre >
+var hosannabarrientos = {llave: "hosannabarrientos", nombre: "Hosanna", artista: "Marco Barrientos" ,  enlace: "https://www.youtube.com/embed/YsFkw4J3Z4M", bpm: "146", categoria:"fast" , contenido:` <pre >
 <b>Hosanna
 Marco Barrientos - bpm: 146</b>
 <a>Intro:</a> <a>Bm</a> <a>A</a> <a>D</a><a>/</a><a>F#</a> <a>G</a>
