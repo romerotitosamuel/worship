@@ -126,7 +126,7 @@ Toda gloria y honra sea para ti
     <a>Am</a>                                  <a>A</a> <a>Bb</a> <a>C</a> <a>C#</a>
 ¡¡Grande!! y ¡¡Fuerte!! Es nuestro Dios
 <pre>`};
-var grandeyfuerteomar = {llave: "grandeyfuerteomar", nombre: "Grande y Fuerte", artista: "Omar Oropesa" , bpm: "79", categoria:"fast" , contenido:` <pre >
+var grandeyfuerteomar = {llave: "grandeyfuerteomar", nombre: "Grande y Fuerte", artista: "Omar Oropesa" , enlace: "https://www.youtube.com/embed/7FKysBB_d_8" ,bpm: "79", categoria:"fast" , contenido:` <pre >
 <b>Grande y fuerte
 Omar Oropesa - bpm: 79</b>
 <a>Intro:</a> <a>Am</a> <a>G</a>

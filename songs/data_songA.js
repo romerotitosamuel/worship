@@ -106,7 +106,7 @@ postrado te quiero adorar
      <a>F#m</a> <a>E<a> <a>F#m</a> <a>E</a>
 <pre>`};
 
-var alqueestasentadoeneltrono = {llave: "alqueestasentadoeneltrono", nombre: "Al que esta sentado en el trono", artista: "Marcos Brunet" , bpm: "133", categoria:"low", contenido:` <pre >
+var alqueestasentadoeneltrono = {llave: "alqueestasentadoeneltrono", nombre: "Al que esta sentado en el trono", artista: "Marcos Brunet" , enlace: "https://www.youtube.com/embed/MclX3YvhBMM" ,bpm: "133", categoria:"low", contenido:` <pre >
 <b>Al que esta sentado en el trono
 Marcos Brunet - bpm: 133</b>
 <a>Intro:</a> <a>C</a> <a>Em</a> <a>G</a> 

@@ -1,4 +1,4 @@
-lista= [hosannabarrientos, nohaylugarmasalto, diosdeloimposible, tempranoyotebuscare];
+lista= [hermosonombre, soyfeliz, alqueestasentadoeneltrono, grandeyfuerteomar];
 
 listaprint= null;
 listaunida= null;

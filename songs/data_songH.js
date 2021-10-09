@@ -25,11 +25,11 @@ Cuán hermoso su nombre es
         <a>A</a>       <a>G</a>
 No hay otro nombre
 
-<a>D</a>               
+<a>Bm</a>                 <a>A</a>  <a>D</a>               
 Dejaste el cielo por salvarme
       <a>G</a>            <a>A</a> 
 Me viniste a rescatar
-<a>D</a>            
+<a>Bm</a>                 <a>A</a>  <a>D</a>         
 Mi transgresión tú perdonaste
        <a>G</a>        <a>A</a>
 Nada nos separará
