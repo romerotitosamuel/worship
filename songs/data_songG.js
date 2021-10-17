@@ -144,3 +144,83 @@ Y en su nombre hay
        <a>Em</a>       <a>Am</a>
 Hay poder para vencer
 <pre>`};
+var graciasublimees = {llave: "graciasublimees", nombre: "Gracia sublime es", artista: "En Espiritu y en Verdad" , enlace: "https://www.youtube.com/embed/Th7jDTYdjts" ,bpm: "100", categoria:"slow" , contenido:` <pre >
+<b>Gracia sublime es
+En Espiritu y en Verdad - bpm: 100</b>
+<a>Intro:</a> <a>A</a> <a>D</a>
+<a>A</a>                                
+Quién rompe el poder del pecado, 
+<a>D</a>
+Su Amor es fuerte y poderoso
+<a>F#m</a>              <a>E</a>               <a>D</a>
+El Rey de gloria, el Rey de Majestad
+
+<a>A</a>          
+Conmueve el mundo con su estruendo, 
+<a>D</a>
+y nos asombra con maravillas
+<a>F#m</a>              <a>E</a>                 <a>D</a>
+El Rey de gloria, el Rey de Majestad
+
+                <a>A</a>                  <a>D</a>
+Gracia Sublime es, Perfecto es tu amor
+              <a>F#m</a>                 <a>E</a>
+Tomaste mi lugar, Cargaste Tu mi cruz
+                <a>A</a>                <a>D</a>
+Tu vida diste ahí, Y ahora libre soy
+<a>F#m</a>            <a>E</a>                      <a>A</a>
+Jesús te Adoro por lo que hiciste en mi
+
+<a>A</a>                    
+Pusiste en orden todo el caos, 
+<a>D</a>
+Nos adoptaste como tus hijos
+<a>F#m</a>              <a>E</a>                <a>D</a>
+El Rey de gloria, el Rey de Majestad
+
+<a>A</a>                       
+El que gobierna con su Justicia, 
+<a>D</a>
+Quien resplandece con su belleza
+<a>F#m</a>              <a>E</a>                <a>D</a>
+El Rey de gloria, el Rey de Majestad
+
+ <a>A</a>
+///Digno es el Cordero de Dios
+<a>D</a>
+Digno es el Rey que la muerte venció///
+<a>F#m</a>
+Digno es el Cordero de Dios
+      <a>E</a>
+Digno digno
+<pre>`};
+var gracias = {llave: "gracias", nombre: "Gracias", artista: "Marcos Witt" , enlace: "https://www.youtube.com/embed/DioSPCb_GXk" ,bpm: "61.5", categoria:"slow" , contenido:` <pre >
+<b>Gracias
+Marcos Witt - bpm:61.5</b>
+          <a>Em</a>                          <a>D</a>
+Me has tomado en tus brazos y me has dado salvación
+        <a>Em</a>                           <a>D</a>
+De tu amor has derramado en mi corazón
+      <a>Em</a>                         <a>D</a>
+No sabré agradecerte lo que has hecho por mí
+      <a>Em</a>                       <a>D</a>     <a>A</a> <a>D</a>
+Sólo puedo darte ahora mi canción
+
+  <a>G</a>  <a>D</a>     <a>Am</a>      <a>Em</a>  <a>D</a>
+Gracias, gracias Señor
+  <a>G</a>            <a>D</a>     <a>C</a>
+Gracias, mi Señor Jesús
+  <a>G</a>  <a>D</a>     <a>Am</a>      <a>Em</a>  <a>D</a>
+Gracias, gracias Señor
+  <a>G</a>            <a>D</a>     <a>C</a>
+Gracias, mi Señor Jesús
+
+        <a>Em</a>                         <a>D</a>
+En la cruz diste tu vida lo entregaste todo ahí
+      <a>Em</a>                    <a>D</a>
+Vida eterna regalaste al morir
+        <a>Em</a>                             <a>D</a>
+Por tu sangre tengo entrada ante el trono celestial
+          <a>Em</a>                      <a>D</a>
+Puedo entrar confiadamente ante ti
+<pre>`};
