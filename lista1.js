@@ -1,4 +1,4 @@
-lista= [gracias, diosincomparable, vieneya, graciasublimees];
+lista= [laalegria, misanador, eternoamor, siempreestarasamilado];
 
 listaprint= null;
 listaunida= null;

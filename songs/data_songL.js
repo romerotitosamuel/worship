@@ -69,3 +69,26 @@ Libre para vivir en ti (libre para vivir en ti)
         <a>D</a> <a>G</a> <a>D</a> <a>G</a>
 Libre soy
 </pre>`};
+var laalegria = {llave: "laalegria", nombre: "La alegría", artista: "William Rojas" , enlace: "https://www.youtube.com/embed/sdx5umFqD5Y" , bpm: "124", categoria:"fast" , contenido:` <pre>
+<b>La alegría
+bpm:124</b>
+<a>Intro:</a> <a>G</a> <a>C</a> <a>Cm</a> <a>G</a> <a>D</a>    <a>G</a> <a>C</a> <a>G</a>    <a>D</a>
+<a>G</a>               
+La alegria está en el corazón
+      <a>C</a>                  <a>G</a>
+de aquel que conoce a Jesús,
+<a>G</a>             <a>Em</a>
+la verdadera paz la tiene aquel
+    <a>Am</a>             <a>D</a>
+que ya conoce a Jesús.
+  <a>G</a>               
+¡Oh! sentimiento más precioso
+      <a>C</a>          <a>Cm</a>
+que viene del Señor,
+      <a>G</a>      <a>D</a>
+el amor de aquel
+                    <a>G</a>
+que ya conoce a Jesús.
+      <a>C</a>     <a>G</a>    <a>D</a>
+(Aleluya amén)
+</pre>`};

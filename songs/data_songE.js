@@ -181,3 +181,47 @@ Eres Grande y Majestuoso
 Eres Fuerte e Invencible
 Y no hay nadie como Tú
 <pre>`};
+var eternoamor = {llave: "eternoamor", nombre: "Eterno amor", artista: "Hillsong" , enlace: "https://www.youtube.com/embed/C216nD6kzO0" ,bpm: "79", categoria:"slow" , contenido:` <pre >
+<b>Eterno amor
+Hillsong - bpm:79</b>
+<a>Intro:</a> <a>Bm</a> <a>G</a> <a>D</a> <a>D</a>
+<a>Bm</a>
+Ni riqueza, ni honor
+        <a>G</a>
+Nada tiene un valor
+        <a>D</a>
+Que pudiera pagarte a ti.
+        <a>Bm</a>
+Es tan solo tu amor
+        <a>G</a>            <a>D</a>
+El que llena mi corazón.
+
+  <a>A</a> <a>Bm</a>  <a>G</a>
+Cristo  tu gracia fue
+        <a>A</a>   <a>Bm</a>    <a>G</a>
+La que rescato mi ser.
+  <a>A</a> <a>Bm</a>    <a>G</a>
+Padre   ahora y por siempre
+    <a>A</a>      <a>Bm</a>  <a>G</a>
+Tu rostro buscare.
+
+<a>D</a>                    <a>A</a>           <a>Bm</a>
+    Lo que yo soy lo rindo a tus pies
+                                <a>G</a>
+Ante tu gracia y majestad me humillare.
+<a>D</a>                   <a>A</a>         <a>Bm</a>
+    Encuentro mas e lo que busque
+                          <a>G</a>
+En tu eterno amor en tu eterno amor.
+
+      <a>Bm</a>
+Mi orgullo deje
+        <a>G</a>
+Mis deseos también
+      <a>D</a>
+Para darte mi adoración.
+        <a>Bm</a>
+Mas que fama y honor
+      <a>G</a>                 <a>D</a>
+Mi anhelo es buscarte Dios.
+<pre>`};

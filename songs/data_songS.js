@@ -68,9 +68,9 @@ Eres fiel, siempre fiel
 Siempre fiel, eres fiel
 <pre>`};
 
-var siempreestarasamilado = {llave: "siempreestarasamilado", nombre: "Simpre estarás a mi lado", artista: "Danilo Montero" , bpm: "0", categoria:"fast" , contenido:` <pre>
+var siempreestarasamilado = {llave: "siempreestarasamilado", nombre: "Simpre estarás a mi lado", artista: "Danilo Montero" , enlace:"https://www.youtube.com/embed/Kh0RIetF8mI", bpm: "136", categoria:"fast" , contenido:` <pre>
 <b>Siempres estarás a mi lado
-Danilo Montero</b>
+Danilo Montero bpm:136</b>
 <a>Intro:</a> <a>D</a> <a>Em</a> <a>Bm</a> <a>C</a>
        <a>D</a> <a>Em</a> <a>Bm</a> <a>G</a> 
 <a>D</a>            <a>A</a>       <a>Bm</a> <a>G</a> 
