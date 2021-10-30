@@ -57,3 +57,120 @@ Quiero que sean visibles en mi vida Señor
 Yo quiero ser portador de tu gloria,    
 yo quiero ser portador de tu gloria
 </pre>`};
+var popurridecumbias = {llave: "popurridecumbias", nombre: "Popurri de cumbias", artista: "Varios" , enlace:"-", bpm: "", categoria:"fast" , contenido:` <pre>
+<b>Popurri de Cumbias</b>
+<a>Intro:</a> <a>D</a> <a>A</a>
+                      <a>A</a>                  <a>D</a>
+Vamos a alabar a Jehová, con panderos y arpas
+                <a>A</a>                            <a>D</a>
+En el cielo se oye, lo que en la tierra se canta
+
+  <a>D</a>    <a>A</a>                   <a>D</a>
+Así, así, así se alaba a Dios,
+  <a>D</a>    <a>A</a>                   <a>D</a>
+Así, asi, así se alaba a Dios.
+
+                     <a>A</a>
+Con mucha alegría y gozo
+                     <a>D</a>
+Con mucha alegría y gozo
+                    <a>A</a>
+Con mucha alegría y gozo
+                 <a>D</a>
+Así se alaba a Dios,
+
+                   <a>A</a>
+Alzando las manos todos
+                   <a>D</a>
+Alzando las manos todos
+                   <a>A</a>
+Alzando las manos todos
+                  <a>D</a>
+Así se alaba a Dios.
+
+-----------------------
+                     <a>A</a>
+Bueno es alabarte Jehova y cantar 
+             <a>D</a>
+Salmos a tu nombre
+
+       <a>G</a>                <a>D</a>
+Anunciar por la mañana tu misericordia 
+   <a>A</a>                 <a>D</a>
+y tu fidelidad de noche
+
+                 <a>A</a>
+Quien es el que vive
+                  <a>D</a>
+Cristo es el que vive
+                 <a>A</a>
+Quien es el que salva
+                  <a>D</a>
+Cristo es el que salva
+                  <a>A</a>
+Quien es el que viene
+                   <a>D</a>
+Cristo es el que viene
+
+      <a>G</a>                <a>D</a>
+Anunciar por la mañana tu misericordia 
+   <a>A</a>                 <a>D</a>
+y tu fidelidad de noche
+
+----------------------
+     <a>D</a>     <a>A</a>                  <a>D</a>
+Jehova, Jesus, espiritu de poder
+
+      <a>D</a><a>7</a>           <a>G</a>
+Oh Señor toma mi ser 
+                           <a>D</a>
+de tal manera que pueda amarte 
+                        <a>A</a>
+para alabarte y glorificarte
+                 <a>D</a>
+con todo mi corazón
+
+----------------------
+    <a>D</a>
+Yo tengo un gozo 
+          <a>A</a>
+que me está llenando
+que me está llenando
+         <a>D</a>
+que me está llenando
+
+<a>D</a>        <a>A</a>                    <a>D</a>
+Yo le estoy, yo le estoy esperando
+  <a>D</a>        <a>A</a>        <a>A</a>         <a>D</a>
+Alábale, alábale, alábale de corazón
+
+----------------------
+<a>D</a>   
+Mira lo que hizo mi Señor
+                           <a>C</a> <a>D</a>
+Mira lo que hizo mi Señor
+    <a>G</a>         <a>D</a>       <a>Bm</a>
+me levantó y me libertó
+ <a>Em</a>          <a>A</a>        <a>D</a>     <a>A</a> <a>A</a> <a>A</a>
+mira lo que hizo mi Señor
+
+<a>D</a>
+Caminando por la senda voy
+                            <a>C</a> <a>D</a>
+Caminando por la senda voy
+      <a>G</a>                  <a>D</a>           <a>Bm</a>
+de prueba en prueba, victoria en victoria
+<a>Em</a>         <a>A</a>            <a>D</a>    <a>A</a> <a>A</a> <a>A</a>
+caminando por la senda voy
+
+<a>D</a>
+El enemigo ya vencido está
+                            <a>C</a> <a>D</a>
+El enemigo ya vencido está
+  <a>G</a>                    <a>D</a>         <a>Bm</a>
+Jesús lo venció cuando Él resucitó
+<a>Em</a>          <a>A</a>           <a>D</a>    <a>Bm</a>
+El enemigo ya vencido está
+<a>Em</a>          <a>A</a>           <a>D</a>    
+El enemigo ya vencido está
+</pre>`};
