@@ -225,3 +225,20 @@ Mas que fama y honor
       <a>G</a>                 <a>D</a>
 Mi anhelo es buscarte Dios.
 <pre>`};
+var elsenoresmirey = {llave: "elsenoresmirey", nombre: "El Señor es mi rey", artista: "Omar Oropesa" , enlace: "https://www.youtube.com/embed/4BO_62gAEUY" ,bpm: "76", categoria:"slow" , contenido:` <pre >
+<b>El Señor es mi rey
+Omar Oropesa - bpm: 76</b>
+<a>Intro:</a> <a>Dm</a> <a>C</a>
+<a>Dm</a>                    <a>C</a>
+El señor es mi rey mi todo
+<a>Dm</a>                     <a>C</a>
+El señor es mi luz mi rey
+<a>Bb</a>                          <a>F</a>
+El que me hace vibrar de gozo
+<a>Bb</a>                  <a>F</a>
+El que guia mis pasos
+<a>Bb</a>                    <a>F</a>
+El que extiende sus brazos
+<a>Bb</a>                  <a>F</a> <a>C</a> <a>Dm</a>   <a>C</a> <a>Dm</a>
+El creador de los cielos.
+<pre>`};

@@ -228,3 +228,44 @@ Mejor que la vida es tu amor por mi
 
 <a>Solo:</a> <a>F#m</a> <a>E</a> <a>D</a>
 <pre>`};
+var atimerindo = {llave: "atimerindo", nombre: "A ti me rindo", artista: "Hillsong" , enlace: "https://www.youtube.com/embed/SKeEzkW-EPw" , bpm: "52", categoria:"fast", contenido:` <pre >
+<b>A ti me rindo
+Hillsong - bpm: 52</b>
+<a>Intro:</a> <a>Dm</a> <a>F</a> <a>C</a> <a>Bb</a>
+<a>Dm</a>                 <a>F</a>
+Ante ti postrado estoy aquí
+              <a>C</a>               <a>Bb</a>
+Te rindo mi ser, Te rindo mi ser
+  <a>Dm</a>                 <a>F</a>
+Con tu amor atráeme señor
+                <a>C</a>                <a>Bb</a>
+Vengo a tus pies, Vengo a tus pies
+          <a>Dm</a> <a>F</a> <a>C</a> <a>Bb</a>  
+Yo me rindo
+
+<a>Dm</a>                   <a>F</a>
+Lléname, de gracia inúndame
+          <a>C</a>            <a>Bb</a>
+Sacia mi ser, Sacia mi ser
+    <a>Dm</a>               <a>F</a>
+Mi corazón levanta un clamor
+            <a>C</a>              <a>Bb</a>
+Háblame Señor, Háblame señor
+
+         <a>Dm</a>             <a>F</a>
+A ti me rindo, a ti me rindo
+          <a>Gm</a>                 <a>Bb</a>
+Te quiero conocer, mas de ti conocer
+
+<a>Instrumental:</a> <a>Bb</a> <a>F</a> <a>C</a> <a>C</a> <a>Gm</a> <a>Dm</a> <a>C</a> <a>C</a>
+        <a>Bb</a>     <a>F</a>
+Con tu aliento Dios
+          <a>C</a>
+Sopla en mi interior
+          <a>Gm</a>          <a>Dm</a>     <a>C</a>
+Cumple Señor tu voluntad en mí
+        <a>Bb</a>      <a>F</a>         <a>C</a>
+Con tu gran poder, Muévete en mi ser
+          <a>Gm</a>          <a>Dm</a>     <a>C</a>
+Cumple Señor tu voluntad en mí
+<pre>`};
