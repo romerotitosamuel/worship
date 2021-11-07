@@ -145,3 +145,36 @@ eres mi Señor
 mi Salvador
 </pre>
 `}
+var diosdemaravillas = {llave: "diosdemaravillas" , nombre: "Dios de maravillas", artista: "Christine D'Clario" , bpm: "" , categoria: "slow" , enlace:"https://www.youtube.com/embed/0sgupQxoYLg" ,contenido:`<pre>
+
+<b>Dios de Maravillas
+Christine D'Clario</b>
+<a>D</a>                         <a>G</a>
+Muéstrame, tu voluntad enséñame
+           <a>Bm</a>      <a>A</a>   <a>G</a>     <a>D</a>
+acercame y no me alejaré, no temeré en la
+        <a>G</a>                      <a>Bm</a>
+prueba cantaré, aún en la oscuridad te
+  <a>A</a>   <a>G</a>
+alabaré
+       <a>Em</a>        <a>Bm</a>          <a>A</a>  <a>G</a>
+aquí estoy, tómame tal como soy, digno de
+  <a>Em</a>       <a>Bm</a>          <a>A</a>
+amor te daré mi adoración
+
+          <a>D</a>                  <a>Bm</a>
+ Dios de maravillas Dios de poder y autoridad
+        <a>G</a>           <a>A</a>        <a>D</a>
+creo en ti creo en Tu fidelidad
+
+<a>G</a>       <a>Em</a>           <a>Bm</a>       <a>D</a>
+Tu amor no me falla, tu amor nunca cambia
+<a>G</a>            <a>Bm</a>             <a>A</a>
+eres fiel y fiel siempre serás
+
+<a>G</a>       <a>Bm</a>            <a>D</a>      <a>F#m</a>
+Tu amor no me falla, tu amor nunca cambia
+<a>G</a>            <a>Bm</a>             <a>A</a>
+eres fiel y fiel siempre serás
+</pre>
+`}

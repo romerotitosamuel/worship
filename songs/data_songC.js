@@ -113,3 +113,35 @@ Recibe toda la honra
      <a>D</a>           <a>A</a>
 Precioso Hijo de Dios
 <pre>`};
+var cuangrandeesdios = {llave: "cuangrandeesdios", nombre: "Cuan grande es Dios", artista: "En espíritu y en verdad" , enlace:"https://www.youtube.com/embed/drFvhcWYS3U" ,bpm: "", categoria:"low", contenido:`  <pre>
+<b>Cuan grande es Dios
+En espíritu y en verdad</b>
+
+El esplendor de un Rey, vestido en Majestad
+La Tierra alegre está
+La Tierra alegre está
+
+Cubierto está de luz, venció a la oscuridad
+Y tiembla a Su voz
+Tiembla a Su voz
+
+Cuán Grande es Dios
+Cántale, Cuán grande es Dios
+Y todos lo verán
+Cuán grande es Dios
+
+Día a Día El está
+Y el tiempo está en El
+Principio y el fin
+Principio y el fin
+
+La Trinidad en Dios
+El Padre, Hijo, Espíritu
+Cordero y el León
+Cordero y el León
+
+Y Tu Nombre sobre todo es
+Tu eres Digno de alabar
+Y mi ser dirá
+Cuan grande es Dios
+<pre>`};

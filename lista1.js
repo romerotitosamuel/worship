@@ -1,4 +1,4 @@
-lista= [elsenoresmirey, atimerindo, popurridecumbias, tuguiasmidestino, graciasublimees];
+lista= [diosdemaravillas, cuangrandeesdios, vivesenmi, vamosacantar];
 
 listaprint= null;
 listaunida= null;
