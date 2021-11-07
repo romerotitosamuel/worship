@@ -1,4 +1,4 @@
-var vamosacantar = {llave: "vamosacantar", nombre: "Vamos a cantar", artista: "En espíritu y en verdad" , enlace:"https://www.youtube.com/embed/iWXWg2LUakw" , bpm: "148", categoria:"fast" , contenido:` <pre>
+var vamosacantar = {llave: "vamosacantar", nombre: "Vamos a cantar", artista: "En espíritu y en verdad" , enlace:"https://www.youtube.com/embed/YZOcxolb5z8" , bpm: "148", categoria:"fast" , contenido:` <pre>
 <b>Vamos a cantar
 En espíritu y en verdad - bpm: 148</b>
       <a>D</a> 
