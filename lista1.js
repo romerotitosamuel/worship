@@ -1,4 +1,4 @@
-lista= [diosdemaravillas, cuangrandeesdios, vivesenmi, vamosacantar];
+lista= [tupalabra, amorcomofuego, pormimurio, tueresdignodegloria];
 
 listaprint= null;
 listaunida= null;
