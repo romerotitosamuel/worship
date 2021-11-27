@@ -242,3 +242,64 @@ El que extiende sus brazos
 <a>Bb</a>                  <a>F</a> <a>C</a> <a>Dm</a>   <a>C</a> <a>Dm</a>
 El creador de los cielos.
 <pre>`};
+var escuchartehablar = {llave: "escuchartehablar", nombre: "Escucharte hablar", artista: "Marcos Witt" , enlace: "https://www.youtube.com/embed/-X73b2N5h4o" ,bpm: "", categoria:"slow" , contenido:` <pre >
+<b>Escucharte hablar
+Marcos Witt</b>
+<a>Intro:</a> <a>G</a> <a>D</a> <a>C</a> <a>D</a>
+<a>G</a>                   <a>D</a>
+Quiero escuchar tu dulce voz
+    <a>C</a>                       <a>D</a>
+rompiendo el silencio en mi ser
+<a>G</a>                  <a>D</a>
+se que me haria estremecer
+      <a>C</a>               <a>D</a> 
+me haria llorar o reir
+      <a>C</a>     <a>Am</a>         <a>D</a>
+y caeria rendido ante Tí
+
+  <a>G</a>            <a>D</a>
+Y no podria estar ante Tí
+    <a>Am</a>                      <a>C</a>           <a>D</a>
+escuchandote hablar sin llorar como un niño
+  <a>G</a>            <a>D</a>
+y pasaria el tiempo asi
+        <a>Am</a>
+sin querer nada mas
+      <a>C</a>            <a>D</a>        <a>G</a>
+nada mas que escucharte hablar
+<pre>`};
+var esjesus = {llave: "esjesus", nombre: "Es Jesús", artista: "Danilo Montero" , enlace: "https://www.youtube.com/embed/Yu_erTjtyj8" ,bpm: "", categoria:"slow" , contenido:` <pre >
+<b>Es Jesús
+Danilo Montero</b>
+<a>Intro:</a> <a>C</a> <a>G</a>
+     <a>G</a>           <a>Em</a>
+A aquel que nos amó
+          <a>C</a>         <a>D</a>
+testigo fiel exaltaré
+    <a>G</a>                   <a>Em</a>
+Al que es principio y fin
+            <a>C</a>         <a>D</a>
+Al gran yo soy adoraré.
+
+      <a>G</a>       <a>D</a>
+A Jesús mi Señor
+        <a>Am</a>                   <a>C</a>  <a>D</a>         
+Resplandor de la gloria de Dios
+
+     <a>G</a>           <a>D</a>
+A Jesús mi gran Rey
+            <a>C</a>       <a>D</a>
+Alabanza y honra daré
+
+<a>Em</a> <a>D</a> <a>G</a>         <a>C</a>   <a>D</a> <a>(</a><a>B</a><a>)</a>
+Siempre te amaré
+<a>Em</a> <a>D</a> <a>G</a>         <a>C</a>   <a>D</a> <a>(</a><a>B</a><a>)</a>
+Siempre te adoraré
+<a>Em</a> <a>D</a> <a>G</a>         <a>C</a>   <a>D</a> <a>(</a><a>B</a><a>)</a>
+Siempre te cantaré
+<a>Em</a> <a>D</a> <a>G</a>         <a>C</a>   <a>D</a>
+Siempre te exaltaré
+
+<a>Solo:</a> <a>Em</a> <a>D</a> <a>C</a>
+     <a>Em</a> <a>D</a>    <a>Am</a> <a>(</a><a>B</a><a>)</a> <a>C</a> <a>D</a>
+<pre>`};
