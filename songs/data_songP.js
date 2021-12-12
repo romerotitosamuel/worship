@@ -174,3 +174,41 @@ El enemigo ya vencido está
 <a>Em</a>          <a>A</a>           <a>D</a>    
 El enemigo ya vencido está
 </pre>`};
+
+var poderosodios = {llave: "poderosodios", nombre: "Poderoso Dios", artista: "Marcos Witt" , enlace:"https://www.youtube.com/embed/N1KoaapgBu0", bpm: "", categoria:"low" , contenido:` <pre>
+<b>Poderoso Dios 
+Marcos Witt</b>
+<a>Intro:</a> <a>C</a> <a>Am</a> <a>F</a> <a>Dm</a> <a>G</a>
+                <a>C</a>          <a>Am</a>
+Al que esta sentado en el trono
+        <a>F</a>               <a>G</a>
+y al cordero, sea el honor
+          <a>C</a>            <a>Am</a>
+sea la gloria, sea la honra
+            <a>F</a>                            <a>G</a>
+sea el dominio por los siglos de los siglos
+
+           <a>C</a>
+Poderoso Dios
+            <a>Am</a>
+Poderoso Dios
+            <a>F</a>  <a>Dm</a> 
+Poderoso Dios
+                   <a>G</a> <a>F</a> <a>G</a>
+Mi alma clama por ti
+
+<a>Solo:</a> <a>Dm</a> <a>C</a> <a>Am</a> <a>G</a> <a>C</a>    <a>Dm</a> <a>C</a> <a>Gm</a> <a>G</a>
+                  <a>Dm</a> <a>C</a> <a>F</a>
+Mi alma clama por ti
+                   <a>G</a> <a>F</a> <a>G</a>
+Mi alma clama por ti  
+
+          <a>D</a>
+Poderoso Dios
+            <a>Bm</a>
+Poderoso Dios
+            <a>G</a>  <a>Em</a> 
+Poderoso Dios
+                   <a>A</a> <a>G</a> <a>A</a>
+Mi alma clama por ti
+</pre>`};

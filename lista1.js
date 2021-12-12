@@ -1,4 +1,4 @@
-lista= [glorioso, escuchartehablar, esjesus, nuestrofruto];
+lista= [misanador, increible, poderosodios, hosannabarrientos];
 
 listaprint= null;
 listaunida= null;
