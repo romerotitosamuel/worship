@@ -1,4 +1,4 @@
-lista= [misanador, increible, poderosodios, hosannabarrientos];
+lista= [vieneya, somoselpueblodedios, diosdepactos, cuangrandeesdios];
 
 listaprint= null;
 listaunida= null;

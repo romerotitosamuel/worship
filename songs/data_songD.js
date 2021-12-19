@@ -176,5 +176,43 @@ eres fiel y fiel siempre serás
 Tu amor no me falla, tu amor nunca cambia
 <a>G</a>            <a>Bm</a>             <a>A</a>
 eres fiel y fiel siempre serás
-</pre>
-`}
+</pre>`}
+var diosdepactos = {llave: "diosdepactos" , nombre: "Dios de pactos", artista: "Marcos Witt" , bpm: "" , categoria: "slow" , enlace:"https://www.youtube.com/embed/PgziIm_AHGE" ,contenido:`<pre>
+<b>Dios de pactos
+Marcos Witt</b>
+         <a>A</a>                         <a>D</a>
+Dios de pactos que guardas tus promesas
+                <a>Bm</a>
+Que cumples tu palabra
+                 <a>E</a>
+Que guias mi destino
+
+          <a>A</a>                      <a>D</a>
+Dios de pactos confio en tus promesas
+                 <a>Bm</a>
+Descanso en tu palabra
+                  <a>E</a>
+Por tu gracia estoy aqui
+
+<a>F</a>                     <a>G</a>
+En la intimidad, al abrigo de tu gloria
+          <a>C</a> <a>(</a><a>B</a><a>)</a>       <a>Am</a> <a>G</a>
+Puedo estar, junto a ti
+    <a>F</a>                 <a>G</a>
+Al ver tu santidad estoy maravillado
+      <a>C</a> <a>(</a><a>B</a><a>)</a>     <a>Am</a> <a>G</a>
+Ante ti   y tu amor
+       <a>F</a>                  <a>Dm</a>                       <a>E</a>
+Nunca mas sere igual al salir de este santisimo lugar
+
+<a>F</a>                        <a>G</a>
+Tengo redencion por la sangre que descansa
+         <a>C</a> <a>(</a><a>B</a><a>)</a>   <a>Am</a> <a>G</a>
+En tu altar para mi
+    <a>F</a>                         <a>G</a>
+La gracia y el perdon son los frutos de vivir
+         <a>C</a> <a>(</a><a>B</a><a>)</a>       <a>Am</a> <a>G</a>
+En comunión y adoración
+       <a>F</a>                  <a>Dm</a>                       <a>E</a>
+Nunca mas sere igual al salir de este santisimo lugar
+</pre>`}

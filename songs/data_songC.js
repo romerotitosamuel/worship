@@ -116,32 +116,57 @@ Precioso Hijo de Dios
 var cuangrandeesdios = {llave: "cuangrandeesdios", nombre: "Cuan grande es Dios", artista: "En espíritu y en verdad" , enlace:"https://www.youtube.com/embed/drFvhcWYS3U" ,bpm: "", categoria:"low", contenido:`  <pre>
 <b>Cuan grande es Dios
 En espíritu y en verdad</b>
+<a>C</a>                    
+El esplendor de un Rey
+    <a>Am</a>
+Vestido en Majestad
+                    <a>F</a>
+La tierra alegre está
+                    <a>G</a>
+La tierra alegre está
 
-El esplendor de un Rey, vestido en Majestad
-La Tierra alegre está
-La Tierra alegre está
-
-Cubierto está de luz, venció a la oscuridad
+    <a>C</a>  
+Cubierto está de luz, 
+     <a>Am</a>
+Venció a la oscuridad
+                <a>F</a>
 Y tiembla a Su voz
+              <a>G</a>
 Tiembla a Su voz
 
+       <a>C</a>
 Cuán Grande es Dios
+               <a>Am</a>
 Cántale, Cuán grande es Dios
+              <a>F</a>
 Y todos lo verán
+       <a>G</a>         <a>C</a>
 Cuán grande es Dios
 
+  <a>C</a> 
 Día a Día El está
+       <a>Am</a>
 Y el tiempo está en El
+                <a>F</a>
 Principio y el fin
+                <a>G</a>
 Principio y el fin
 
+     <a>C</a>
 La Trinidad en Dios
+       <a>Am</a>
 El Padre, Hijo, Espíritu
+               <a>F</a>
 Cordero y el León
+               <a>G</a>
 Cordero y el León
 
+             <a>C</a>
 Y Tu Nombre sobre todo es
+         <a>Am</a>
 Tu eres Digno de alabar
+      <a>F</a>
 Y mi ser dirá
+      <a>G</a>          <a>C</a>
 Cuan grande es Dios
 <pre>`};
