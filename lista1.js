@@ -1,4 +1,4 @@
-lista= [vieneya, somoselpueblodedios, diosdepactos, cuangrandeesdios, amorcomofuego, benditojesus];
+lista= [vivesenmi, vieneya, somoselpueblodedios, diosdepactos, cuangrandeesdios, amorcomofuego, benditojesus];
 
 listaprint= null;
 listaunida= null;
