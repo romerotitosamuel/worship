@@ -1,4 +1,4 @@
-lista= [cuangrandeesdios, vivesenmi, vieneya, somoselpueblodedios, diosdepactos, cuangrandeesdios, amorcomofuego, benditojesus];
+lista= [abremisojos];
 
 listaprint= null;
 listaunida= null;
