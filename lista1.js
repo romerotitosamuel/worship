@@ -1,4 +1,4 @@
-lista= [abremisojos];
+lista= [abremisojos, lacasadedios];
 
 listaprint= null;
 listaunida= null;
