@@ -1,4 +1,4 @@
-lista= [abremisojos, lacasadedios];
+lista= [diosincomparable, esjesus];
 
 listaprint= null;
 listaunida= null;
