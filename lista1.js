@@ -1,4 +1,4 @@
-lista= [diosincomparable, esjesus];
+lista= [diosdeloimposible, graciasublimees, asiestuamor, escuchartehablar];
 
 listaprint= null;
 listaunida= null;
