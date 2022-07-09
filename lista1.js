@@ -1,4 +1,4 @@
-lista= [erestodopoderoso, libresoy];
+lista= [poderosodios];
 
 listaprint= null;
 listaunida= null;
