@@ -1,4 +1,4 @@
-lista= [elsenoresmipastor, comodijiste];
+lista= [graciasublimees, gloriaenloalto, sananuestratierra, atimerindo];
 
 listaprint= null;
 listaunida= null;
